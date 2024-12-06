@@ -1,7 +1,7 @@
 genre,preview_url,preview_track,color,top,left,font_size
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"e.g. Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866px,1068px,144%
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"e.g. Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997px,783px,160%
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"e.g. Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552px,563px,141%
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"e.g. Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997px,783px,160%
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"e.g. Darell ""Lollipop""","rgb(189, 144, 2)",3456px,1170px,136%
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"e.g. Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854px,1086px,135%
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"e.g. Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723px,1182px,134%
@@ -2376,8 +2376,8 @@ japanese chill rap,https://p.scdn.co/mp3-preview/dc5652ad6e64a07f00eeb8be1597a55
 russian dance pop,https://p.scdn.co/mp3-preview/c77178678936eed244e8475c318bff426dea6055,"e.g. Ольга Серябкина ""Одиночка""","rgb(187, 135, 8)",3156px,854px,101%
 leipzig electronic,https://p.scdn.co/mp3-preview/61330ad9ea6f6f48d0a51b95d36661f1fea79dd2,"e.g. Panthera Krause ""Birthday Club""","rgb(163, 151, 190)",1318px,1254px,101%
 horrorcore,https://p.scdn.co/mp3-preview/f317664271bcfb1b2184b25e0b961e533a518056,"e.g. Troubled Mindz ""In Da Trunk - Feat. Mr. Stitchez""","rgb(186, 121, 12)",5237px,1000px,101%
-croatian rock,https://p.scdn.co/mp3-preview/446fc0a46ce85903855c83d749843b8982865e62,"e.g. Psihomodo Pop ""Frida - Remastered""","rgb(180, 120, 13)",7606px,609px,101%
 galante era,https://p.scdn.co/mp3-preview/d4cf0c1fc5ece4b81f1b364d9adb72a8be88c5be,"e.g. Baldassare Galuppi ""I. Allegro moderato""","rgb(37, 163, 100)",21084px,408px,101%
+croatian rock,https://p.scdn.co/mp3-preview/446fc0a46ce85903855c83d749843b8982865e62,"e.g. Psihomodo Pop ""Frida - Remastered""","rgb(180, 120, 13)",7606px,609px,101%
 nova musica carioca,https://p.scdn.co/mp3-preview/547990a4f3728196f39b5a4c587d880312ebb250,"e.g. Ava Rocha ""LONGE LONGE DE MIM""","rgb(132, 145, 32)",11416px,839px,101%
 psychedelic folk,https://p.scdn.co/mp3-preview/8d92f622ada304996ba1e93903fea50d14dc800c,"e.g. Synanthesia ""Peek Strangely And Worried Evening""","rgb(106, 147, 37)",15021px,646px,101%
 21st century classical,https://p.scdn.co/mp3-preview/8bdd921b862a94ac918984e3eb71710d036b2e0f,"e.g. Thomas Adès ""Arcadiana, Op. 12: VI. O Albion""","rgb(33, 155, 121)",21303px,272px,101%
@@ -2824,8 +2824,8 @@ keroncong,https://p.scdn.co/mp3-preview/484e052ccc4412f685be3e013fa28088c3e2b0ee
 progressive death metal,https://p.scdn.co/mp3-preview/e7aa36b70ce09f47264065c0fc4e953a3664cef1,"e.g. Alkaloid ""The Cambrian Explosion""","rgb(208, 95, 107)",9737px,185px,101%
 mallsoft,https://p.scdn.co/mp3-preview/34a4dcc9effb9899c0bc6e87b388b08ec7fe0b46,"e.g. Xenon Masters ""Caramel""","rgb(142, 129, 171)",9807px,578px,101%
 elephant 6,https://p.scdn.co/mp3-preview/c67d72843c8195b5dec3aeb0789ff40ba926f0d8,"e.g. Pipes You See, Pipes You Don't ""If I Leave Tommorow""","rgb(148, 132, 71)",11624px,449px,101%
-israeli trap,https://p.scdn.co/mp3-preview/2c59db73470422b9a65a73e6f02924b584ea17d4,"e.g. Shekel ""פרחים""","rgb(163, 140, 11)",8076px,1007px,101%
 bulgarian hip hop,https://p.scdn.co/mp3-preview/9a33f54d1750a6c026f25576d338222d8f8f5e2c,"e.g. Tr1ckmusic ""Падат Бучки От Носът Ми""","rgb(164, 140, 20)",4442px,1125px,101%
+israeli trap,https://p.scdn.co/mp3-preview/2c59db73470422b9a65a73e6f02924b584ea17d4,"e.g. Shekel ""פרחים""","rgb(163, 140, 11)",8076px,1007px,101%
 man's orchestra,https://p.scdn.co/mp3-preview/72ecc3e688c150592f2fa303e68b0f6741b91b23,"e.g. Percy Faith & His Orchestra ""Rags to Riches""","rgb(86, 137, 129)",18819px,689px,101%
 ulkucu sarkilar,https://p.scdn.co/mp3-preview/360bc0ab66cdc775ed7d8b26cc0e9a9d5342f91e,"e.g. Atilla Yılmaz ""Gündoğdu Marşı""","rgb(136, 134, 30)",13470px,716px,101%
 marathi traditional,https://p.scdn.co/mp3-preview/dabdf0bcc228415a29c1741ff6b23f1846b5c642,"e.g. Vasantrao Deshpande ""Pratham Tula Vandito""","rgb(137, 130, 45)",15851px,824px,101%
@@ -5361,8 +5361,8 @@ rap alagoano,https://p.scdn.co/mp3-preview/ebb1ff02c23ad8ae2a8efd9c713869d6eb793
 musica prehispanica,https://p.scdn.co/mp3-preview/c5ffbf62d42ec6d8c57670fc56acd8c4dcaeaa37,"e.g. Jorge Reyes ""Danza Del Tambor""","rgb(105, 141, 122)",12634px,795px,100%
 taiwan classical performance,https://p.scdn.co/mp3-preview/aae9bf51fecb3731b1f3f07fe88bab0e7f933dfd,"e.g. Ray Chen ""Violin Concerto No. 3 in G Major, K. 216: III. Rondeau. Allegro""","rgb(49, 157, 172)",20330px,526px,100%
 clawhammer banjo,https://p.scdn.co/mp3-preview/21126dbdce7dfcad833771f51be48510b301b1f1,"e.g. Bob Carlin ""The Falls Of Richmond""","rgb(94, 161, 105)",17154px,921px,100%
-missouri indie,https://p.scdn.co/mp3-preview/83aa5c89e9f480d9989f1db18415136800f7fbbe,"e.g. The Hooten Hallers ""Cat Scrap""","rgb(140, 136, 33)",12413px,526px,100%
 romanian punk,https://p.scdn.co/mp3-preview/9a753316f0b3a7743c4bfd82ea5dfbea08238800,"e.g. Fuck You! Dracu ""Bătaie Pe Alee""","rgb(197, 107, 39)",6112px,512px,100%
+missouri indie,https://p.scdn.co/mp3-preview/83aa5c89e9f480d9989f1db18415136800f7fbbe,"e.g. The Hooten Hallers ""Cat Scrap""","rgb(140, 136, 33)",12413px,526px,100%
 spanish classical piano,https://p.scdn.co/mp3-preview/283ed15b648b25b3ca364a7cc556d97c3094fbab,"e.g. Javier Perianes ""Lyric Pieces, Book 1, Op. 12: I. Arietta""","rgb(35, 165, 181)",21975px,561px,100%
 polish experimental electronic,https://p.scdn.co/mp3-preview/5a514109775da856a45ea036e1424dfeb976528d,"e.g. Zamilska ""Delusion""","rgb(129, 136, 184)",9515px,624px,100%
 italian hardcore,https://p.scdn.co/mp3-preview/c6c27efef139b2fcfa158ad3d35e6140a6b7eae1,"e.g. Nerorgasmo ""Passione nera""","rgb(231, 64, 71)",10440px,229px,100%

@@ -1,3 +1,5 @@
 pandas
 selenium
 tqdm
+psycopg2
+python-dotenv
