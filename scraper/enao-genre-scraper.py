@@ -2,6 +2,7 @@ import os
 import time
 import psycopg2
 import pandas as pd
+import re
 from dotenv import load_dotenv
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -52,12 +53,12 @@ def main(conn):
         genre_obj = {
             "genre": genre.get_attribute("innerText"),
             "preview_url": genre.get_attribute("preview_url"),
-            "preview_track": genre.get_attribute("title")
+            "preview_track": re.sub(r'^e\.g\.\s*', '', genre.get_attribute("title"))
         }
         
         for style in genre.get_attribute("style").split(";")[:-1]:
             [key, value] = style.split(":")
-            genre_obj[key.strip().replace("-", "_")] = value.strip()
+            genre_obj[key.strip().replace("-", "_")] = re.sub(r'(px)$', '', value.strip())
         
         return genre_obj
 
@@ -92,9 +93,8 @@ def main(conn):
     elapsed_time = end_time - start_time
     print(f"Scraping process completed in {elapsed_time:.2f} seconds.")
 
-    # Clean up: close the browser
-    driver.quit()
-
 if __name__ == "__main__":
     conn = init_db()  
-    main(conn)
+    while True:
+        main(conn)
+        time.sleep(300)
