@@ -16,7 +16,7 @@ load_dotenv()
 # Set up selenium driver
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-chromedriver_path = 'C:\\Users\\Wildan Aziz\\OneDrive\\Documents\\Dev\\enao-scraper\\chromedriver.exe'
+chromedriver_path = os.path.join(os.getcwd(), 'chromedriver')
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get("https://everynoise.com/")
@@ -84,7 +84,7 @@ def main(conn):
     genres_df = pd.DataFrame(genres_objs)
 
     # Save data
-    genres_df.to_csv("C:\\Users\\Wildan Aziz\\OneDrive\\Documents\\Dev\\enao-scraper\\data\\enao-genres.csv", index=False)
+    genres_df.to_csv(os.path.join(os.getcwd(), 'data', 'enao-genres.csv'), index=False)
 
     # Record the end time
     end_time = time.time()
