@@ -15,7 +15,13 @@ load_dotenv()
 
 # Set up selenium driver
 chrome_options = Options()
-chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+chrome_options.add_argument("--no-sandbox")  # Disables sandbox for Docker compatibility
+chrome_options.add_argument("--disable-dev-shm-usage")  # Fixes some Chrome errors in Docker
+chrome_options.add_argument("--remote-debugging-port=9222")  # Optional, useful for debugging
+chrome_options.add_argument("--disable-gpu")  # Disables GPU acceleration
+chrome_options.add_argument("--disable-software-rasterizer")  # Prevents Chrome from crashing in headless mode
+chrome_options.add_argument("--window-size=1920x1080")  # Set the window size for headless mode
 chromedriver_path = os.path.join(os.getcwd(), 'chromedriver')
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
