@@ -38,6 +38,22 @@ def init_db():
             port=os.getenv("port")
         )
         print("Successfully connected to database.")
+
+        create_table_query = """
+        CREATE TABLE IF NOT EXISTS genre (
+            genre_name VARCHAR(255), 
+            preview_url VARCHAR(255), 
+            preview_track VARCHAR(255), 
+            color VARCHAR(255), 
+            top_pixel VARCHAR(255), 
+            left_pixel VARCHAR(255), 
+            font_size VARCHAR(255) 
+        );
+        """
+
+        conn.cursor().execute(create_table_query)
+        conn.commit()
+
         return conn
 
     except:
