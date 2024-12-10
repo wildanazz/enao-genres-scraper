@@ -80,7 +80,7 @@ def main(conn):
         
         for style in genre.get_attribute("style").split(";")[:-1]:
             [key, value] = style.split(":")
-            genre_obj[key.strip().replace("-", "_")] = re.sub(r'(px)$', '', value.strip())
+            genre_obj[key.strip().replace("-", "_")] = re.sub(r'(px|%)$', '', value.strip())
         
         return genre_obj
 
