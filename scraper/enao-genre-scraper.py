@@ -45,9 +45,9 @@ def init_db():
             preview_url VARCHAR(255), 
             preview_track VARCHAR(255), 
             color VARCHAR(255), 
-            top_pixel VARCHAR(255), 
-            left_pixel VARCHAR(255), 
-            font_size VARCHAR(255) 
+            top_pixel INT, 
+            left_pixel INT, 
+            font_size INT 
         );
         """
 
