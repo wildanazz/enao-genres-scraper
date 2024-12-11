@@ -3,3 +3,4 @@ selenium
 tqdm
 psycopg2-binary
 python-dotenv
+seaborn
