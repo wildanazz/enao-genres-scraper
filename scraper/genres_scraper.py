@@ -73,14 +73,17 @@ def main(conn):
     # Function to scrape genre data (this will run in parallel threads)
     def scrape_genre(genre):
         genre_obj = {
-            "genre": genre.get_attribute("innerText"),
+            "genre_name": genre.get_attribute("innerText"),
             "preview_url": genre.get_attribute("preview_url"),
             "preview_track": re.sub(r'^e\.g\.\s*', '', genre.get_attribute("title"))
         }
         
         for style in genre.get_attribute("style").split(";")[:-1]:
             [key, value] = style.split(":")
-            genre_obj[key.strip().replace("-", "_")] = re.sub(r'(px|%)$', '', value.strip())
+            key = key.strip().replace("-", "_")
+            if key in ['top', 'left']:
+                key += '_pixel'
+            genre_obj[key] = re.sub(r'(px|%)$', '', value.strip())
         
         return genre_obj
 
@@ -97,7 +100,7 @@ def main(conn):
     if conn:
         conn.cursor().executemany("""
             INSERT INTO genre (genre_name, preview_url, preview_track, color, top_pixel, left_pixel, font_size) 
-            VALUES (%(genre)s, %(preview_url)s, %(preview_track)s, %(color)s, %(top)s, %(left)s, %(font_size)s);
+            VALUES (%(genre_name)s, %(preview_url)s, %(preview_track)s, %(color)s, %(top_pixel)s, %(left_pixel)s, %(font_size)s);
         """, genres_objs)
         
         conn.commit()
