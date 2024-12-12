@@ -23,6 +23,8 @@ chrome_options.add_argument("--disable-gpu")  # Disables GPU acceleration
 chrome_options.add_argument("--disable-software-rasterizer")  # Prevents Chrome from crashing in headless mode
 chrome_options.add_argument("--window-size=1920x1080")  # Set the window size for headless mode
 chromedriver_path = os.path.join(os.getcwd(), 'chromedriver')
+if os.name == 'nt':
+    chromedriver_path += '.exe'
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get("https://everynoise.com/")
