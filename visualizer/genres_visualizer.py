@@ -24,15 +24,28 @@ def init_db():
         return None
 
 def fetch_data(conn):
-    cursor = conn.cursor()
-    try:
-        cursor.execute('SELECT * FROM genre;')
-        data = cursor.fetchall()
-        genre_df = pd.DataFrame(data, columns=[desc[0] for desc in cursor.description])
-        return genre_df
-    except (Exception, psycopg2.Error) as e:
-        print('Error fetching data from PostgreSQL.', e)
-        return None
+    if conn:
+        cursor = conn.cursor()
+        try:
+            cursor.execute('SELECT * FROM genre;')
+            data = cursor.fetchall()
+            genre_df = pd.DataFrame(data, columns=[desc[0] for desc in cursor.description])
+            print('Fetched data from database.')
+            return genre_df
+        
+        except (Exception, psycopg2.Error) as e:
+            print('Error fetching data from PostgreSQL.', e)
+            return None
+        
+    else:
+        try:
+            genre_df = pd.read_csv(os.path.join('data', 'enao-genres.csv'))
+            print('Fetched data from local folder.')
+            return genre_df
+        
+        except Exception as e:
+            print('Failed to fetch data from folder.', e)
+            return None
 
 def plot(genre_df):
     print('Plotting...')
@@ -69,4 +82,5 @@ if __name__ == '__main__':
     conn = init_db()
     if conn:
         genre_df = fetch_data(conn)
-        plot(genre_df)
+        if not genre_df is None:
+            plot(genre_df)
