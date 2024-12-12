@@ -62,7 +62,7 @@ def init_db():
         print("Failed connecting to database.")
         return None
 
-def main(conn):
+def scrape(conn):
     # Record the start time
     start_time = time.time()
 
@@ -123,5 +123,5 @@ def main(conn):
 if __name__ == "__main__":
     conn = init_db()  
     while True:
-        main(conn)
+        scrape(conn)
         time.sleep(300)
