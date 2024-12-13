@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Genres (with Contour)</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        /* Basic Reset and Full Screen Layout */
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Container for the scatter plot */
+        #scatterplot {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        /* Tooltip styling */
+        .tooltip {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+            visibility: hidden;
+            font-size: 14px;
+            pointer-events: none;
+        }
+
+        /* Dot styling */
+        .dot {
+            stroke-width: 2;
+            opacity: 0.7;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .dot.selected {
+            stroke: #ff4500;
+            stroke-width: 3;
+        }
+
+        /* Checkbox form styling */
+        form {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            background-color: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div id="scatterplot"></div>
+    <div class="tooltip" id="tooltip"></div>
+    
+    <form>
+        <label style="display: flex; align-items: center;">
+            <input type="checkbox" id="toggle-mask" style="margin: 0 0.4em 0 0;" checked>
+            <span>Toggle Contour</span>
+        </label>
+    </form>
+    <script src="d3.js"></script>
+</body>
+</html>
