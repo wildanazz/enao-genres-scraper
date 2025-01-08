@@ -80,7 +80,6 @@ def plot(genre_df):
 
 if __name__ == '__main__':
     conn = init_db()
-    if conn:
-        genre_df = fetch_data(conn)
-        if not genre_df is None:
-            plot(genre_df)
+    genre_df = fetch_data(conn)
+    if not genre_df is None:
+        plot(genre_df)
