@@ -16,7 +16,7 @@ def init_db():
             host=os.getenv('host'),
             port=os.getenv('port')
         )
-        print(f'Successfully connected to {os.getenv('dbname')} database.')
+        print(f"Successfully connected to {os.getenv('dbname')} database.")
         return conn
     
     except (Exception, psycopg2.Error) as e:
