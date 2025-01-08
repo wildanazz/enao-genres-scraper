@@ -122,6 +122,11 @@ def scrape(conn):
 
 if __name__ == "__main__":
     conn = init_db()  
-    while True:
+    
+    # Check if running on GitHub Actions
+    if os.getenv("GITHUB_ACTIONS") != "true":
+        while True:
+            scrape(conn)
+            time.sleep(300)
+    else:
         scrape(conn)
-        time.sleep(300)
