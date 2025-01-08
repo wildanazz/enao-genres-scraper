@@ -35,3 +35,19 @@ jobs:
           GITHUB_ACTIONS: "true"
         run: |
           python ./scraper/genres_scraper.py
+
+      - name: Commit and push updated data to the repository
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # Add the updated data file(s) to the commit
+          git add data/
+
+          # Commit changes if there are any
+          git diff --cached --quiet || git commit -m "Update scraping results"
+
+          # Push the changes back to the repository
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
