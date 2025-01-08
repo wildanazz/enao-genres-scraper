@@ -35,6 +35,7 @@ jobs:
           GITHUB_ACTIONS: "true"
         run: |
           python ./scraper/genres_scraper.py
+          python ./visualizer/genres_visualizer.py
 
       - name: Commit and push updated data to the repository
         run: |
