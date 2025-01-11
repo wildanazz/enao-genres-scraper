@@ -1,4 +1,4 @@
-# enao-spotify-genres
+# ENAO Spotify Genres
 A tool for scraping genres from Spotify. This application is deployable using Docker and designed to be easily deployed in Kubernetes clusters. It optionally supports storing data in a PostgreSQL database for persistent storage.
 ![Spotify Genres](./data/plot.png)
 ## Acknowledgements
