@@ -1,11 +1,11 @@
 pipeline {
-    agent any
+    agent { dockerfile true }
 
     stages {
         stage('Build') {
             steps {
                 script {
-                    echo 'Jenkins build triggered by GitHub webhook'
+                    echo 'Jenkins build triggered by GitHub webhook.'
                 }
             }
         }
