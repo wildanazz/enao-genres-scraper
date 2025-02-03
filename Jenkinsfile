@@ -5,7 +5,7 @@ pipeline {
         stage('Docker Test') {
             steps {
                 script {
-                    sh 'docker --version'
+                    sh 'docker ps -a'
                 }
             }
         }
