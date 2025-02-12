@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -509,8 +509,8 @@ deep underground hip hop,https://p.scdn.co/mp3-preview/874d7ab8fc6329fd952040e28
 electronic trap,https://p.scdn.co/mp3-preview/55bed6188a62980f91f4fe05595e4e543ca1d4f8,"UZ ""Fire""","rgb(197, 130, 64)",3519,858,105
 classic pakistani pop,https://p.scdn.co/mp3-preview/576519e9ba85e5e0149ff4486efb0e6e9c05de6e,"Abrar Ul Haq ""Chamkeeli""","rgb(155, 127, 18)",14490,739,105
 electric blues,https://p.scdn.co/mp3-preview/91ab849d9751ec0157d1e54dce38042400178e0f,"Albert Collins ""Cold, Cold Feeling""","rgb(132, 125, 35)",15634,887,105
-weirdcore,https://p.scdn.co/mp3-preview/f36cfa49102244e641cf82203a5532b4beedfee0,"Graham Kartna ""Browser History""","rgb(129, 145, 126)",9269,847,105
 late romantic era,https://p.scdn.co/mp3-preview/c9e05bb351dfdbe1544172ea1911c1951be48a24,"Alexander Borodin ""Prince Igor (Knyaz Igor): Act II: Polovtsian Dances - Ulyetay na kril'yahk vyetra (Fly away on the wings of the wind) (version for chorus)""","rgb(38, 154, 141)",22024,325,105
+weirdcore,https://p.scdn.co/mp3-preview/f36cfa49102244e641cf82203a5532b4beedfee0,"Graham Kartna ""Browser History""","rgb(129, 145, 126)",9269,847,105
 chill r&b,https://p.scdn.co/mp3-preview/4b9076179e98e6ef97c7346dadf0aedf332ff1c2,"Thomas Ng ""One Last Dance (feat. Milky Day)""","rgb(119, 155, 7)",10499,860,105
 meme rap,https://p.scdn.co/mp3-preview/985edf971524fda5f7e6cf0f7d8d2534e189cbf7,"Shotgun Willy ""Oreo""","rgb(152, 143, 19)",6980,1043,105
 viral rap,https://p.scdn.co/mp3-preview/167a9c2d285ad63b871dbe951ed4b17384d8f2b0,"WhoHeem ""Lets Link""","rgb(146, 148, 11)",4753,1173,105
