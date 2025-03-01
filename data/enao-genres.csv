@@ -1,12 +1,12 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
-hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
+trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
+dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
 pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
 modern rock,https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1,"Cage The Elephant ""Cigarette Daydreams""","rgb(189, 120, 18)",5689,471,127
 pov: indie,https://p.scdn.co/mp3-preview/53c0dac3cd40e29fb0b9b6a22f03879a744f7105,"Cavetown ""Devil Town""","rgb(156, 135, 23)",7866,615,126
@@ -5872,8 +5872,8 @@ saxony metal,https://p.scdn.co/mp3-preview/6cab9c895c71f347a522360e6ef31301077ad
 ladakhi pop,https://p.scdn.co/mp3-preview/f389da17827681c522d555ec60ae496585da1af8,"Ilyaz Khan ""Semzangma Lay""","rgb(143, 148, 12)",5784,828,100
 normal indie,https://p.scdn.co/mp3-preview/51e756202da18fc8ac92087ac8e40b35eaf03220,"Andrew Osenga ""So We Bend In Sorrow""","rgb(146, 130, 54)",11844,524,100
 alaska hip hop,https://p.scdn.co/mp3-preview/f0bba1b17fdad7e1c2a4b5bbf6f3a0cb07c6b170,"Duckman ""Green Lights""","rgb(150, 146, 14)",7963,1043,100
-musica campineira,https://p.scdn.co/mp3-preview/be05d93c7ac0213a2359c2bb28debf0b0357ba23,"Čao Laru ""Paira no Ar""","rgb(142, 141, 23)",10994,604,100
 mexican power metal,https://p.scdn.co/mp3-preview/9aed1a55ac5ed882daa0c21924daa84364b93dbf,"Saga Heroica ""A Tu Nombre""","rgb(209, 103, 41)",6916,249,100
+musica campineira,https://p.scdn.co/mp3-preview/be05d93c7ac0213a2359c2bb28debf0b0357ba23,"Čao Laru ""Paira no Ar""","rgb(142, 141, 23)",10994,604,100
 bandura,https://p.scdn.co/mp3-preview/13a40058687bd4fd1f919ddb368776090328de93,"KRUTЬ ""Воля - full version""","rgb(86, 157, 77)",18072,512,100
 lincoln ne indie,https://p.scdn.co/mp3-preview/ac9243e2eadc93ff5d3cc8f024b46ad3083e40a8,"Salt Creek ""Euclid""","rgb(157, 130, 37)",10843,471,100
 soda pop,https://p.scdn.co/mp3-preview/16ea49ed8ed8bda9bcfdaf3ea6070b63d059448d,"The Royal Jesters ""Take Me For a Little While""","rgb(128, 130, 10)",15693,646,100
