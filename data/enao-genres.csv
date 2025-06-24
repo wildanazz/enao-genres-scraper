@@ -1,10 +1,10 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
+hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
 dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
 pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
@@ -3112,8 +3112,8 @@ duluth indie,https://p.scdn.co/mp3-preview/d5618ab1ad5b24767b1b9fb6178255555ddd8
 russian synthpop,https://p.scdn.co/mp3-preview/93d7fe33d5ffc4f4e07c6db411eeaa7dea525c92,"Хадн дадн ""Мы сегодня дома""","rgb(177, 136, 74)",2833,772,100
 samurai trap,https://p.scdn.co/mp3-preview/fd22454a740d68e0a8211b2c912dfd3dc7249242,"K4rl ""Shiro""","rgb(177, 145, 124)",3026,903,100
 japanese vocal jazz,https://p.scdn.co/mp3-preview/c35e6eb36ea81212c258145a7af3f0206586b53d,"Keiko Lee ""あまく危険な香り""","rgb(90, 154, 14)",16927,790,100
-russian trance,https://p.scdn.co/mp3-preview/266c25d191405481d967c6e5e81b1c8f37061a11,"Michael Milov ""Pray For Me""","rgb(221, 121, 124)",1812,501,100
 grimewave,https://p.scdn.co/mp3-preview/db04da8a62cfabdba58b0557596e08948a14587d,"Air Max '97 ""Ice Bridge""","rgb(174, 135, 133)",4062,939,100
+russian trance,https://p.scdn.co/mp3-preview/266c25d191405481d967c6e5e81b1c8f37061a11,"Michael Milov ""Pray For Me""","rgb(221, 121, 124)",1812,501,100
 trival,https://p.scdn.co/mp3-preview/0fecab7f9171dd00fa8490ff5922cf186a7c5303,"El Pelón del Mikrophone ""La Cumbia Tribalera (feat. Edwin Luna y La Trakalosa de Monterrey & Grupo Violento)""","rgb(187, 136, 66)",2871,1189,100
 slovenian pop,https://p.scdn.co/mp3-preview/0c5a0477c3dd59f5d78dc3085781825410a64070,"Manca Špik ""Oba / špansko slovenska verzija""","rgb(161, 134, 11)",8922,642,100
 coco,https://p.scdn.co/mp3-preview/81753bb7d5881e0f6dea51bac1c6a3ada7465929,"Samba de Coco Raizes de Arcoverde ""Godê Pavão""","rgb(176, 124, 6)",12116,1030,100
