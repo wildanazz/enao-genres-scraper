@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -3681,8 +3681,8 @@ dansei seiyu,https://p.scdn.co/mp3-preview/b3895cd641cee626ff4620f22622dcde78bad
 southampton indie,https://p.scdn.co/mp3-preview/0ca43fba3b12ff8dd8566d018c2efb70440ec388,"Creeper ""Cry To Heaven""","rgb(152, 130, 22)",11268,471,100
 rockabilly en espanol,https://p.scdn.co/mp3-preview/f6463951caed3ce291068a608d09ec6bc1851655,"Rock'n'Bordes ""Dios de mí se olvidó""","rgb(192, 114, 24)",9664,636,100
 rock of gibraltar,https://p.scdn.co/mp3-preview/a5f9e3c1f129a49cd474130108f573dc4da63511,"Reach ""Sigo Sin Dormir""","rgb(131, 138, 18)",14218,591,100
-sami,https://p.scdn.co/mp3-preview/349a7e23ef0c78933a64311426b7049ae6c237a2,"Inger Marie Nilut ""Min duovdagat""","rgb(109, 150, 33)",13108,568,100
 technical melodic death metal,https://p.scdn.co/mp3-preview/a2095403ed8902615e3c6ef8c4dfbf11b517cb06,"Enfold Darkness ""Lairs of the Ascended Masters""","rgb(238, 62, 95)",7273,203,100
+sami,https://p.scdn.co/mp3-preview/349a7e23ef0c78933a64311426b7049ae6c237a2,"Inger Marie Nilut ""Min duovdagat""","rgb(109, 150, 33)",13108,568,100
 cleveland metal,https://p.scdn.co/mp3-preview/6b8b3c55803df791c081468ba1550cd66d3ae23e,"Mushroomhead ""Sun Doesn't Rise""","rgb(224, 79, 53)",8984,218,100
 deep contemporary country,https://p.scdn.co/mp3-preview/b706349740f2b2c66a031bf0f7172ec21baa3e43,"Danni Leigh ""Ol' Lonesome""","rgb(138, 145, 4)",10325,639,100
 british post-rock,https://p.scdn.co/mp3-preview/941a2f1852d4c550697a15bdff97c0cc0c4559e0,"Maybeshewill ""He Films The Clouds Pt. 2""","rgb(125, 145, 181)",11404,275,100
