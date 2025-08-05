@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -5803,8 +5803,8 @@ synthetic classical,https://p.scdn.co/mp3-preview/ab8aad3eb93978707a249bc30a346b
 rock in opposition,https://p.scdn.co/mp3-preview/e46064428ad755065a0b767ff22c7f8c9ee92c36,"Univers Zero ""L'étrange mixture du docteur Schwartz""","rgb(128, 128, 104)",14131,486,100
 frafra,https://p.scdn.co/mp3-preview/8d8031a1ee99afa1f185828c6942c4665d26c5f5,"Alogte Oho & His Sounds of Joy ""Mam Yinne Wa""","rgb(184, 132, 24)",10096,1144,100
 field recording,https://p.scdn.co/mp3-preview/19c0a8ace4fb69d3233b65e5a3d5731fe8f6d45c,"Lawrence English ""Watching It Unfold""","rgb(92, 91, 155)",17417,258,100
-middle eastern traditional,https://p.scdn.co/mp3-preview/774a537764e35c4e5bfe101a3c622f428df8ad36,"Ahmed Mukhtar ""Raqsat albedoi""","rgb(100, 150, 109)",19065,741,100
 ceske chvaly,https://p.scdn.co/mp3-preview/82e8cc4940cbd0fe2a4e38845fcd3f5986ac01da,"Adonai ""Je má síla""","rgb(135, 147, 12)",10785,607,100
+middle eastern traditional,https://p.scdn.co/mp3-preview/774a537764e35c4e5bfe101a3c622f428df8ad36,"Ahmed Mukhtar ""Raqsat albedoi""","rgb(100, 150, 109)",19065,741,100
 albanian folk,https://p.scdn.co/mp3-preview/7cea1b35e2eda7ab9ee43e93b28c2466263d795b,"Albanian Popular Music Ensemble Of Tirana ""My Mountain Flower - Folk Song""","rgb(121, 141, 42)",17125,435,100
 vintage hawaiian,https://p.scdn.co/mp3-preview/0e1c0b923e4953a69de57d3f150ee1e9705f779c,"Hawaii Calls ""Hawaiian Wedding Song (Ke Kali Nei Au)""","rgb(59, 148, 103)",19562,889,100
 deep indie singer-songwriter,https://p.scdn.co/mp3-preview/5c7dff5830a2ff307b92d0643094ca09389cc33d,"Kathryn Ostenberg ""Colorful World""","rgb(116, 151, 15)",12363,612,100
