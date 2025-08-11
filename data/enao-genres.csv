@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -5017,8 +5017,8 @@ siberian folk,https://p.scdn.co/mp3-preview/d8feea3b7035066fb006124957de3290eb46
 polish ambient,https://p.scdn.co/mp3-preview/6709f31d582cfcacbea3c73ba1c5dd83da21fbc7,"Wacław Zimpel ""Fen""","rgb(104, 145, 199)",13071,335,100
 heavy psych,https://p.scdn.co/mp3-preview/f4224984f906b8c0f95110b13387698adda6347f,"Greenbeard ""Creatures of the Night""","rgb(184, 114, 138)",11429,194,100
 russian folk metal,https://p.scdn.co/mp3-preview/ded5ecf2b0708cd23179209b9398086541bc2ace,"Кот-Баюн ""Кот-Баюн""","rgb(208, 106, 69)",5990,209,100
-cajun,https://p.scdn.co/mp3-preview/aff92c41bfd2216287d48c02359d8dd9ac1aa028,"Iry LeJeune ""J'Ai Été Au Bal""","rgb(140, 143, 45)",14676,802,100
 irish techno,https://p.scdn.co/mp3-preview/18ac923cffc90af7d5ec9af984864b06400cf49a,"Matador ""Apollo 11""","rgb(184, 139, 198)",1158,1177,100
+cajun,https://p.scdn.co/mp3-preview/aff92c41bfd2216287d48c02359d8dd9ac1aa028,"Iry LeJeune ""J'Ai Été Au Bal""","rgb(140, 143, 45)",14676,802,100
 experimental black metal,https://p.scdn.co/mp3-preview/8f904c63b9fb6261a94593554c6993ca7452f2d9,"Bethlehem ""Kalt' Ritt in leicht faltiger Leere""","rgb(187, 82, 140)",11465,127,100
 wellington indie,https://p.scdn.co/mp3-preview/ef06e248be2f759b069e880d22483a206260ee08,"The Phoenix Foundation ""Buffalo""","rgb(143, 139, 65)",11256,481,100
 shakuhachi,https://p.scdn.co/mp3-preview/e0419a4fb1bac5880940ce95bf58beeff2d16d49,"Yoshikazu Iwamoto ""Sna an""","rgb(31, 175, 116)",21547,306,100
