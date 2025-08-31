@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -5011,8 +5011,8 @@ musica brasiliense,https://p.scdn.co/mp3-preview/5fc05615b0e32059048b8ae6b4330db
 telugu hip hop,https://p.scdn.co/mp3-preview/714ec80a04aefb26b679c788f4b413cae021b18d,"Rival Mob ""Love Tales""","rgb(162, 141, 17)",5818,1135,100
 slovenian hip hop,https://p.scdn.co/mp3-preview/b31b5800a1b87cda0d7642a993516eeefe7ae612,"Mrigo ""Fonkdat""","rgb(166, 130, 17)",11303,1079,100
 south carolina metal,https://p.scdn.co/mp3-preview/39f24ab3cd3889575b7382f5805682e92afe535a,"Nile ""Vile Nilotic Rites""","rgb(214, 75, 135)",9672,165,100
-choro contemporaneo,https://p.scdn.co/mp3-preview/e8e3592635a74a2dc0019baf16ed9697b637fb81,"Nailor Proveta ""Quem É Você""","rgb(115, 156, 147)",16774,979,100
 rondalla,https://p.scdn.co/mp3-preview/9c600a7dc174e1cf59e56ef9f9a4bc0965881a3d,"La Rondalla Internacional De Saltillo ""Siempre Pienso En Ti""","rgb(88, 152, 5)",16803,795,100
+choro contemporaneo,https://p.scdn.co/mp3-preview/e8e3592635a74a2dc0019baf16ed9697b637fb81,"Nailor Proveta ""Quem É Você""","rgb(115, 156, 147)",16774,979,100
 siberian folk,https://p.scdn.co/mp3-preview/d8feea3b7035066fb006124957de3290eb46a39c,"Otyken ""Legend""","rgb(135, 139, 42)",10689,731,100
 polish ambient,https://p.scdn.co/mp3-preview/6709f31d582cfcacbea3c73ba1c5dd83da21fbc7,"Wacław Zimpel ""Fen""","rgb(104, 145, 199)",13071,335,100
 heavy psych,https://p.scdn.co/mp3-preview/f4224984f906b8c0f95110b13387698adda6347f,"Greenbeard ""Creatures of the Night""","rgb(184, 114, 138)",11429,194,100
