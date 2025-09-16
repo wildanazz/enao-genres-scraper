@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -2369,8 +2369,8 @@ medieval folk,https://p.scdn.co/mp3-preview/15163044dda8539cef4040b5e4953d5a3e8d
 cumbia uruguaya,https://p.scdn.co/mp3-preview/6d86df145379ea8c77efba54740833a6151bcacd,"Sonora Palacio ""Atorrante""","rgb(166, 143, 4)",11766,979,101
 enka,https://p.scdn.co/mp3-preview/67390eae89872149438901b8bca6ae778e8678b6,"Eisaku Okawa ""さざんかの宿""","rgb(108, 157, 16)",14991,427,101
 swiss rock,https://p.scdn.co/mp3-preview/3f09362f81a53e5c0e9caf21af54ce73a3fda2db,"Züri West ""I schänke dr mis Härz""","rgb(161, 131, 30)",8273,547,101
-hong kong indie,https://p.scdn.co/mp3-preview/654e858d535ede873ecfd194d9b585a9fbad6d4c,"The Hertz ""末日快車""","rgb(141, 138, 32)",10170,556,101
 chill out,https://p.scdn.co/mp3-preview/8d359dd445f324ec9d5197ae4774d294a0c6222d,"LeVoite ""Heavy Eye Lids""","rgb(113, 164, 210)",8564,941,101
+hong kong indie,https://p.scdn.co/mp3-preview/654e858d535ede873ecfd194d9b585a9fbad6d4c,"The Hertz ""末日快車""","rgb(141, 138, 32)",10170,556,101
 bozlak,https://p.scdn.co/mp3-preview/c0a19791f0d392db07293e8467cd48dd2ed51166,"Bahri Altaş ""Kozan Dağı""","rgb(119, 147, 20)",17095,724,101
 japanese chill rap,https://p.scdn.co/mp3-preview/dc5652ad6e64a07f00eeb8be1597a557cbc79264,"in-d ""weekday""","rgb(169, 132, 19)",9051,965,101
 russian dance pop,https://p.scdn.co/mp3-preview/c77178678936eed244e8475c318bff426dea6055,"Ольга Серябкина ""Одиночка""","rgb(187, 135, 8)",3156,854,101
@@ -4820,8 +4820,8 @@ dundee indie,https://p.scdn.co/mp3-preview/fb4119d57a0d1fbedf492496876fd0bf0ce37
 taiwanese indigenous music,https://p.scdn.co/mp3-preview/cbc2418df6c69712a5650c50d56b6db735b55bbb,"陳建年 ""海洋""","rgb(100, 154, 22)",14774,609,100
 deep punk rock,https://p.scdn.co/mp3-preview/47268f5aca93c31e521aece43c4b29632837d185,"Satan's Rats ""You Make Me Sick""","rgb(200, 88, 34)",10687,400,100
 classic sudanese pop,https://p.scdn.co/mp3-preview/77367a5d2631ebdefeb6785c807798ccd9717111,"مكارم بشير ""ياحليلك يا اسمر""","rgb(157, 123, 11)",13971,721,100
-estonian indie,https://p.scdn.co/mp3-preview/0fa52d3efd18e9ce7a9cb3230406808696761f27,"Vaiko Eplik ""Soorebased""","rgb(141, 141, 89)",10121,479,100
 rap sureno chileno,https://p.scdn.co/mp3-preview/1021dfc3191e839a9cf28905cc2433f5c69d3149,"Control Habilis ""Los Niños Son Crueles""","rgb(173, 133, 30)",11041,1053,100
+estonian indie,https://p.scdn.co/mp3-preview/0fa52d3efd18e9ce7a9cb3230406808696761f27,"Vaiko Eplik ""Soorebased""","rgb(141, 141, 89)",10121,479,100
 chaabi algerien,https://p.scdn.co/mp3-preview/7589ad59cc4dcaa25be4cec2eb3c8898792e0e6d,"Abdelkader Chaou ""Chehilet laayani""","rgb(137, 135, 38)",18004,734,100
 balkan folk metal,https://p.scdn.co/mp3-preview/ffcd1600457b55f1e2f06745e3503b3c375f7eb6,"An Theos ""Noaptea Sânzienelor""","rgb(208, 98, 87)",7347,229,100
 hypnosis,https://p.scdn.co/mp3-preview/9b4f73a19d328cbc406311fa59ffc8ad596cf3ca,"Anna Thompson ""Putting the Worry Aside""","rgb(23, 169, 182)",19959,227,100
