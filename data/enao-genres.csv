@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -4484,8 +4484,8 @@ marching band,https://p.scdn.co/mp3-preview/adadd4d8e0f86d656a65087f18acae6f556f
 experimental indie rock,https://p.scdn.co/mp3-preview/d95978e0b4948c22fb175b39e9436537525c9aeb,"Deerhoof ""Midnight, The Stars and You""","rgb(163, 114, 95)",12449,477,100
 canadian post-rock,https://p.scdn.co/mp3-preview/0b4eb44227102cd41c22246fa61baab019835e5c,"Silver Mt. Zion ""13 Angels Standing Guard 'Round The Side Of Your Bed""","rgb(127, 135, 161)",13141,302,100
 blackened crust,https://p.scdn.co/mp3-preview/673f95317890643f5218da28511ab579fdfd9019,"Martyrdöd ""List""","rgb(222, 52, 137)",11428,40,100
-electronica venezuela,https://p.scdn.co/mp3-preview/20decf03de74b3d9131fd4daa07b30a68d02daaa,"Alberto Dimeo ""Pachamama - Original Mix""","rgb(199, 139, 192)",336,1397,100
 street band,https://p.scdn.co/mp3-preview/82a27a64a781d01f43c6c1d49a43c884c2f8da65,"Youngblood Brass Band ""Brooklyn""","rgb(168, 120, 94)",11218,851,100
+electronica venezuela,https://p.scdn.co/mp3-preview/20decf03de74b3d9131fd4daa07b30a68d02daaa,"Alberto Dimeo ""Pachamama - Original Mix""","rgb(199, 139, 192)",336,1397,100
 darbuka,https://p.scdn.co/mp3-preview/da08a2b0372df747908e609922218ea4b508eaae,"Amir Sofi ""Talk to Me (Solo Percussion)""","rgb(192, 112, 132)",5744,1130,100
 italian post-punk,https://p.scdn.co/mp3-preview/a8ce2ee5943ecd4773a883cd3fdea68964c360ed,"Ash Code ""Drama""","rgb(181, 122, 103)",5854,394,100
 kashmiri pop,https://p.scdn.co/mp3-preview/abe038dc7a1aa5aba212a8f306e68f0a4de0a5e6,"Jaan Nissar Lone ""Rubaru""","rgb(135, 145, 21)",14180,694,100
