@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -135,8 +135,8 @@ glam rock,https://p.scdn.co/mp3-preview/140ac147a161594b2af013c36f29ee52495df989
 funk carioca,https://p.scdn.co/mp3-preview/00e6f782cba094089dc177063fe2db8cb0dcdc3b,"ZAAC ""Vai Embrazando""","rgb(179, 134, 5)",6550,1205,111
 nigerian pop,https://p.scdn.co/mp3-preview/1bb47d08b57daaa52ed24ee384a386107cf260fb,"WurlD ""Sarafina""","rgb(180, 137, 6)",9344,1068,111
 argentine hip hop,https://p.scdn.co/mp3-preview/83e28467673def81b5532925eed615b4da55c30f,"Neo Pistea ""Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) - Remix""","rgb(164, 143, 9)",7384,1114,110
-dark trap,https://p.scdn.co/mp3-preview/654b151fb3c0c74e3805cabede80dd45f4d3ffdb,"Kamiyada+ ""ProductOfDrugs (Prod. The Virus and Antidote)""","rgb(165, 142, 22)",4354,973,110
 latin viral pop,https://p.scdn.co/mp3-preview/c6b2cae3c5701c5403e3fa0cb752b8ae24c6d0d6,"Javier Ramirez ""Me Atrapó""","rgb(180, 141, 2)",4186,949,110
+dark trap,https://p.scdn.co/mp3-preview/654b151fb3c0c74e3805cabede80dd45f4d3ffdb,"Kamiyada+ ""ProductOfDrugs (Prod. The Virus and Antidote)""","rgb(165, 142, 22)",4354,973,110
 piano rock,https://p.scdn.co/mp3-preview/12219c6fd17e96b5196e2ec083d825ee8d13b8e3,"Jack's Mannequin ""Dark Blue - 2015 Remastered""","rgb(154, 130, 12)",12549,588,110
 detroit hip hop,https://p.scdn.co/mp3-preview/2c1fc587ef0dc9573dd9c6452e436e47f69a9719,"Nuk ""Pluto""","rgb(167, 132, 10)",9970,1049,110
 italian adult pop,https://p.scdn.co/mp3-preview/a69b65da846f07b6ffb06e02a1914416208f7e33,"Noemi ""MAKUMBA""","rgb(145, 139, 7)",12179,636,110
@@ -4896,8 +4896,8 @@ norwegian experimental,https://p.scdn.co/mp3-preview/7603a7d219941ff8267966ffbde
 slovenian folk,https://p.scdn.co/mp3-preview/48a962aa6cfae1e45336213a6947ccc0d3b1a3b9,"Ansambel bratov Poljansek ""Veselo v Kamnik""","rgb(141, 142, 41)",13640,973,100
 coventry indie,https://p.scdn.co/mp3-preview/337a6cab5f55f70a69bc8c948fcd4af7a731bc54,"The Enemy ""We'll Live and Die in These Towns""","rgb(185, 115, 31)",4822,547,100
 quarteto gospel,https://p.scdn.co/mp3-preview/14cccb773a8c517c2c2ad4f9f32b719ec3ec350c,"Quarteto Vertical ""A Minha Paz Te Dou""","rgb(101, 155, 20)",14290,449,100
-musica sul-mato-grossense,https://p.scdn.co/mp3-preview/75e9c90d7f50f73283d7d88f5dd6b29d0bb1efed,"Jerry Espíndola ""Polka Outra Vez""","rgb(144, 145, 9)",10271,815,100
 arpa grande,https://p.scdn.co/mp3-preview/de0dc643dff535910725c9cbde904633e266784b,"Hermanos Gaspar ""Tres Vueltas""","rgb(163, 137, 8)",12240,943,100
+musica sul-mato-grossense,https://p.scdn.co/mp3-preview/75e9c90d7f50f73283d7d88f5dd6b29d0bb1efed,"Jerry Espíndola ""Polka Outra Vez""","rgb(144, 145, 9)",10271,815,100
 nz jazz,https://p.scdn.co/mp3-preview/c337f1a6bc84f30a1d5075bb804df7cc2e4ba198,"Avantdale Bowling Club ""F(r)iends""","rgb(108, 144, 75)",14884,808,100
 string quartet,https://p.scdn.co/mp3-preview/979c5899005f4e035ca1cc7392c28d90634c2298,"Emerson String Quartet ""String Quartet in D minor, Op. 56 ""Voces intimae"": 1. Andante - Allegro molto moderato""","rgb(32, 167, 122)",21693,350,100
 burundian pop,https://p.scdn.co/mp3-preview/98b0f9f672dd3b3c76dc2d0951edd7cec5f05967,"Ado Josan ""HMM""","rgb(167, 143, 3)",7630,1040,100
