@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -228,8 +228,8 @@ trap italiana,https://p.scdn.co/mp3-preview/51f2869cd1e18f288936f220bd44662d6370
 pop reggaeton,https://p.scdn.co/mp3-preview/8f78ea09b3efe7211c95f7cde273219b074164d2,"Gustavo Elis ""No Me Dejes Solo""","rgb(183, 139, 1)",4793,1115,108
 new orleans rap,https://p.scdn.co/mp3-preview/f96e2b17738c2d76e5aac4da19b9fce951f95ac0,"Soulja Slim ""I'll Pay For It""","rgb(167, 134, 4)",7521,1073,108
 otacore,https://p.scdn.co/mp3-preview/68f4a36446bd960ce5460109650ba4990d4e9dee,"PegasYs ""Hinterland (Rabbit Hole)""","rgb(164, 130, 81)",7261,607,108
-funk,https://p.scdn.co/mp3-preview/0828205618d475ae2cb78ec293777236db583054,"Dazz Band ""Let It Whip""","rgb(157, 119, 19)",9793,919,108
 rock-and-roll,https://p.scdn.co/mp3-preview/9ec42ccff69fddc168527bbb16e7aebf2d4e3476,"The Big Bopper ""Chantilly Lace""","rgb(132, 128, 14)",15435,739,108
+funk,https://p.scdn.co/mp3-preview/0828205618d475ae2cb78ec293777236db583054,"Dazz Band ""Let It Whip""","rgb(157, 119, 19)",9793,919,108
 quiet storm,https://p.scdn.co/mp3-preview/96bbfe92bc8cd18a63bf0b276acbcec8e3c16981,"Atlantic Starr ""Always""","rgb(148, 125, 10)",10991,813,108
 motown,https://p.scdn.co/mp3-preview/cbec6992f014a194274675a7aaa6ca21e22b0b81,"Four Tops ""I Can't Help Myself (Sugar Pie, Honey Bunch)""","rgb(151, 122, 11)",12413,777,108
 japanese teen pop,https://p.scdn.co/mp3-preview/5044bb36b2e18a75a64effb1e2004c0ed42f734b,"マルシィ ""ラブソング""","rgb(178, 132, 8)",5406,718,108
