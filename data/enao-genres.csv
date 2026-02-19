@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -2909,8 +2909,8 @@ swedish doom metal,https://p.scdn.co/mp3-preview/5bdcd9fff485e92695412131edd097c
 greek metal,https://p.scdn.co/mp3-preview/b499387bad86b43f71326a4c4d4df2b690e295b2,"Varathron ""Flowers of My Youth""","rgb(214, 93, 80)",6493,212,101
 folklore nuevo argentino,https://p.scdn.co/mp3-preview/5e2381f1f44609880b7071a068484f866e76fd5d,"Los Chaza ""La Morocha""","rgb(127, 147, 20)",14601,897,101
 tamborazo,https://p.scdn.co/mp3-preview/c246b28fccea84538c7791c5f535dcd1567bca4b,"Autentico Tamborazo 2001 ""Arroyo Seco""","rgb(155, 139, 100)",11329,973,101
-mappila paattu,https://p.scdn.co/mp3-preview/48c0b1f5fb0c42a8d315af8457975576132e9321,"Thajudheen Vadakara ""Ajmeer""","rgb(159, 142, 5)",8552,895,101
 cincinnati rap,https://p.scdn.co/mp3-preview/66c5477d5435b6c27ea44d65b3cccf6fc307f317,"Roadrunner TB ""Vest Up""","rgb(142, 152, 9)",6514,1060,101
+mappila paattu,https://p.scdn.co/mp3-preview/48c0b1f5fb0c42a8d315af8457975576132e9321,"Thajudheen Vadakara ""Ajmeer""","rgb(159, 142, 5)",8552,895,101
 hard techno,https://p.scdn.co/mp3-preview/fcad5c9ba714b030b4f3f52c420b6332de74b8b1,"Brecc ""Rave Attack""","rgb(210, 126, 212)",468,1119,101
 classic finnish rock,https://p.scdn.co/mp3-preview/f5584bb62e448fa2d14b6c74754efa2b7787ebed,"Blues Section ""Hey Hey Hey""","rgb(152, 128, 22)",12265,686,101
 folclore tucumano,https://p.scdn.co/mp3-preview/a6a6e31ed2af3b97ed39c4ca6308e3ca8096126e,"La Yunta ""Tucumán Adentro""","rgb(92, 156, 12)",17680,907,101
