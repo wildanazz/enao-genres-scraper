@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -6227,8 +6227,8 @@ trad jazz catala,https://p.scdn.co/mp3-preview/217b941856d3e6f8dccaa504a831dc3e7
 dark electro-industrial,https://p.scdn.co/mp3-preview/93a95925d1a544e2f672263ee10268a7fb50f0e2,"Diverje ""Wrapped Around - The Synthetic Dream Foundation Mix""","rgb(210, 104, 124)",1797,561,100
 kaba gaida,https://p.scdn.co/mp3-preview/53bc8cc5c292f06707502eff59c9290c4d1fafd4,"Valya Balkanska ""Izlel e Delyu Haidutin""","rgb(122, 148, 138)",19112,257,100
 rock noise,https://p.scdn.co/mp3-preview/e7781d8470af0513e875206b2f50d142988e62a4,"Monotract ""Big N""","rgb(187, 103, 100)",7668,588,100
-indie emo rock,https://p.scdn.co/mp3-preview/bdb3a1ea10ef304ae6c80d8bca80f74df0b0a0ec,"Ultramagg ""One Thousand Directions""","rgb(163, 130, 45)",11600,394,100
 wagnerian singing,https://p.scdn.co/mp3-preview/5102711eac45acc0a1374b12d6c102b3348cd38e,"Set Svanholm ""Das Rheingold, WWV 86A / Scene 2: ""Immer ist Undank Loges Lohn!""""","rgb(56, 143, 25)",22514,275,100
+indie emo rock,https://p.scdn.co/mp3-preview/bdb3a1ea10ef304ae6c80d8bca80f74df0b0a0ec,"Ultramagg ""One Thousand Directions""","rgb(163, 130, 45)",11600,394,100
 peruvian experimental,https://p.scdn.co/mp3-preview/771bfb89a18f304b5c35840a5a38b3c23ad8a9bd,"Ale Hop ""Son de los diablos""","rgb(145, 121, 155)",12897,368,100
 musique alsacienne,https://p.scdn.co/mp3-preview/b0937ff73c78d60ad0cd5a6588f4db08c17b4e62,"Jean-Georges ""Une fille d'Alsace""","rgb(139, 135, 76)",14576,872,100
 cantonese traditional,https://p.scdn.co/mp3-preview/cf3b2a9f0ee12a6913c8dfebb475c89045d8ab74,"蓋鳴暉 ""新三笑姻緣 (廟遇求神)""","rgb(71, 156, 103)",19533,360,100
