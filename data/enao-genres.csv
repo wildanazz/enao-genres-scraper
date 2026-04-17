@@ -1,10 +1,10 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
+trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
 dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
 pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
@@ -216,8 +216,8 @@ outlaw country,https://p.scdn.co/mp3-preview/444145a43f331b42343b9c4b4e6d300eb3c
 orchestral soundtrack,https://p.scdn.co/mp3-preview/e8ec3e571c1898f6959896f0e081d8e4e7108dc7,"John Powell ""Test Drive - From How To Train Your Dragon Music From The Motion Picture""","rgb(63, 155, 189)",17224,247,108
 dutch house,https://p.scdn.co/mp3-preview/f81e2e8a2bb25f1c8eedd11622ca9cfdb8eb9cd4,"Blasterjaxx ""Narco""","rgb(210, 122, 82)",2339,832,108
 turkish hip hop,https://p.scdn.co/mp3-preview/202637ec2c18111a4ce5c5c141e9270b3af029fe,"Sansar Salvo ""Dum Taka Dum""","rgb(167, 138, 16)",6703,1030,108
-christian alternative rock,https://p.scdn.co/mp3-preview/e7d1c84e75a3dfebf350d2a33fc25bfd64684a19,"Sanctus Real ""Confidence""","rgb(169, 132, 15)",5816,392,108
 queens hip hop,https://p.scdn.co/mp3-preview/0f64f9256df3a68f05e59f6478fb4de8e1b79c29,"Tragedy Khadafi ""1st Day of Spring""","rgb(182, 116, 8)",9606,1070,108
+christian alternative rock,https://p.scdn.co/mp3-preview/e7d1c84e75a3dfebf350d2a33fc25bfd64684a19,"Sanctus Real ""Confidence""","rgb(169, 132, 15)",5816,392,108
 mandopop,https://p.scdn.co/mp3-preview/b2f0df35d5194e7889bc92d44b67424bc080ad9e,"Princess Ai ""對的人""","rgb(139, 145, 7)",9986,583,108
 lounge,https://p.scdn.co/mp3-preview/6f8162900d7dada097b6bbff356b85640655488c,"Arthur Lyman ""Yellow Bird""","rgb(72, 145, 34)",19345,630,108
 worship,https://p.scdn.co/mp3-preview/9016102e1dcf0f3aaa4551783d3540156cb8479d,"Community Music ""Make Room - Live""","rgb(145, 141, 12)",8909,257,108
