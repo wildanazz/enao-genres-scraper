@@ -1,11 +1,11 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
-hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
 pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
 modern rock,https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1,"Cage The Elephant ""Cigarette Daydreams""","rgb(189, 120, 18)",5689,471,127
@@ -429,8 +429,8 @@ baton rouge rap,https://p.scdn.co/mp3-preview/4491a155871f38762e422451f0d1919160
 skate punk,https://p.scdn.co/mp3-preview/239ca6e880cb7edd95afd8e5e36c49b51bf26ad5,"Lagwagon ""May 16""","rgb(229, 83, 13)",7409,342,105
 grime,https://p.scdn.co/mp3-preview/dbede690464211c46751eb837b9a096c5a7313e8,"D Double E ""Afterthought""","rgb(186, 129, 21)",6942,1019,105
 country pop,https://p.scdn.co/mp3-preview/7f89d9a7d71a197df028f78f82fea448eea66730,"Brandon Ray ""Hold On (feat. Lauren Weintraub)""","rgb(167, 137, 2)",6394,537,105
-nigerian hip hop,https://p.scdn.co/mp3-preview/8145d7d9abbdb8fed93fb37c64f8412f46c4023d,"CDQ ""Manya""","rgb(185, 134, 4)",9705,1082,105
 german rock,https://p.scdn.co/mp3-preview/02aa55629a354795469a22482175e388449acb92,"BAP ""Verdamp lang her""","rgb(173, 115, 11)",8236,621,105
+nigerian hip hop,https://p.scdn.co/mp3-preview/8145d7d9abbdb8fed93fb37c64f8412f46c4023d,"CDQ ""Manya""","rgb(185, 134, 4)",9705,1082,105
 russian pop,https://p.scdn.co/mp3-preview/e9e94096a21faab92eab886e8b06dda16aed694e,"Elena Temnikova ""Импульсы города""","rgb(186, 131, 8)",3632,847,105
 noise pop,https://p.scdn.co/mp3-preview/3a8c27d8264a0a8de4ba68fd472e4bb490015214,"Deerhunter ""Revival""","rgb(173, 114, 90)",10637,337,105
 speed metal,https://p.scdn.co/mp3-preview/fef6939070f877d0d6670492eeb2b8ae253ecc1a,"Metal Church ""Metal Church""","rgb(226, 74, 49)",8222,203,105
@@ -1940,9 +1940,9 @@ alabama indie,https://p.scdn.co/mp3-preview/0197211b9e031598cd11b4713c52c0e7a71b
 western swing,https://p.scdn.co/mp3-preview/a0122b69f9302121300460ee814cbc6d04878981,"Bob Wills & His Texas Playboys ""Bubbles In My Beer""","rgb(93, 143, 20)",17278,911,101
 cumbia lagunera,https://p.scdn.co/mp3-preview/97f19b503a001d081392844617b2043a2b459018,"Furia Rebelde ""Osito Gominola""","rgb(179, 139, 9)",8001,1126,101
 malaysian indie,https://p.scdn.co/mp3-preview/fa7f97804d64ce4176617bdd2866063bceeb7da8,"Toko Kilat ""Pemacu Api""","rgb(176, 123, 44)",7594,458,101
+post-metal,https://p.scdn.co/mp3-preview/a7949a2c9171e6f64a40559785df353ca970beda,"Rosetta ""Homesick""","rgb(176, 105, 162)",10697,133,101
 french metal,https://p.scdn.co/mp3-preview/281129bab48411d1fe385fda7617373063077e5f,"Blut Aus Nord ""Chorea Macchabeorum""","rgb(213, 89, 87)",7383,212,101
 classic norwegian pop,https://p.scdn.co/mp3-preview/27c77620bd0c56c0d467710a7164f990761fe6f7,"Anita Skorgan ""Jeg Vil Bygge Meg En Gård""","rgb(119, 147, 9)",13884,689,101
-post-metal,https://p.scdn.co/mp3-preview/a7949a2c9171e6f64a40559785df353ca970beda,"Rosetta ""Homesick""","rgb(176, 105, 162)",10697,133,101
 australian singer-songwriter,https://p.scdn.co/mp3-preview/dfc0fc3affd5bc64cc452b0913a9a76aab89f7ce,"Dan Sultan ""Fortress""","rgb(112, 152, 27)",13983,556,101
 8d,https://p.scdn.co/mp3-preview/607e0d4ac95acadf68b8cfd1daf401cf42db056f,"8D Audio ""Dancing with a Stranger""","rgb(112, 76, 172)",14641,242,101
 blackened deathcore,https://p.scdn.co/mp3-preview/d68d7af4a2c34983e4cf7b53d60368bf9dc0dd31,"Sold Soul ""For Whom the Banshee Cries""","rgb(225, 69, 115)",6964,127,101
