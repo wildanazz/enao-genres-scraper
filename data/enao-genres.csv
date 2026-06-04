@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -432,8 +432,8 @@ country pop,https://p.scdn.co/mp3-preview/7f89d9a7d71a197df028f78f82fea448eea667
 german rock,https://p.scdn.co/mp3-preview/02aa55629a354795469a22482175e388449acb92,"BAP ""Verdamp lang her""","rgb(173, 115, 11)",8236,621,105
 nigerian hip hop,https://p.scdn.co/mp3-preview/8145d7d9abbdb8fed93fb37c64f8412f46c4023d,"CDQ ""Manya""","rgb(185, 134, 4)",9705,1082,105
 russian pop,https://p.scdn.co/mp3-preview/e9e94096a21faab92eab886e8b06dda16aed694e,"Elena Temnikova ""Импульсы города""","rgb(186, 131, 8)",3632,847,105
-speed metal,https://p.scdn.co/mp3-preview/fef6939070f877d0d6670492eeb2b8ae253ecc1a,"Metal Church ""Metal Church""","rgb(226, 74, 49)",8222,203,105
 noise pop,https://p.scdn.co/mp3-preview/3a8c27d8264a0a8de4ba68fd472e4bb490015214,"Deerhunter ""Revival""","rgb(173, 114, 90)",10637,337,105
+speed metal,https://p.scdn.co/mp3-preview/fef6939070f877d0d6670492eeb2b8ae253ecc1a,"Metal Church ""Metal Church""","rgb(226, 74, 49)",8222,203,105
 canadian trap,https://p.scdn.co/mp3-preview/cb3b1c7669323d89a63f8861beeff6a9412a4374,"APBabyyy ""Company""","rgb(148, 152, 2)",5453,1071,105
 indonesian indie,https://p.scdn.co/mp3-preview/d45926a8e4abb4a0d72b130c36f88479cbbc9834,"Sore ""Karolina""","rgb(155, 133, 46)",9959,492,105
 rap marseille,https://p.scdn.co/mp3-preview/e623c8a16af0275bd9a78aab2f183ae97610da9e,"Elams ""Libérable""","rgb(183, 134, 7)",8677,1090,105
