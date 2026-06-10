@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -471,8 +471,8 @@ classic j-pop,https://p.scdn.co/mp3-preview/9c35b5ec9d6b1b9ab93297bf29081b72a60c
 polish pop,https://p.scdn.co/mp3-preview/7805c378138d8f17f152771b933e5ba9b2fc0240,"Lanberry ""Dzięki, że jesteś""","rgb(167, 136, 10)",6233,659,105
 drill francais,https://p.scdn.co/mp3-preview/b07cbb4d8ea2ccb2cf9fe062b32a51aa5d747f0e,"Norsacce Berlusconi ""Phoenix""","rgb(151, 147, 3)",6564,1152,105
 new jack swing,https://p.scdn.co/mp3-preview/2dc2d4bb0af1b5e053d400b196a41fb8a54f5f40,"Ralph Tresvant ""Sensitivity""","rgb(157, 128, 9)",4135,984,105
-canadian singer-songwriter,https://p.scdn.co/mp3-preview/bd186b39fb5d9d15960c09962e6e00b20afd53f5,"Sarah Harmer ""Basement Apt.""","rgb(122, 145, 15)",13750,599,105
 drill espanol,https://p.scdn.co/mp3-preview/0535f5a9e06dab18727f5a9e1bbe0ef9c6e0bbe1,"BobbyBlock ""Air Force One""","rgb(150, 149, 4)",8297,1134,105
+canadian singer-songwriter,https://p.scdn.co/mp3-preview/bd186b39fb5d9d15960c09962e6e00b20afd53f5,"Sarah Harmer ""Basement Apt.""","rgb(122, 145, 15)",13750,599,105
 gym hardstyle,https://p.scdn.co/mp3-preview/af3ffe1fffe1a50602ab92ccd529b56e7742833d,"Always Mirin ""Firework""","rgb(199, 127, 56)",3624,454,105
 indonesian singer-songwriter,https://p.scdn.co/mp3-preview/fa8129a3d9c493f4a0a8e63306a3a8f46ab6fe0c,"Kunto Aji ""Rehat""","rgb(111, 153, 14)",13737,596,105
 dangdut,https://p.scdn.co/mp3-preview/15a9848ad7bb4fc17fc47026d815930277158d60,"Ikke Nurjanah ""Memandangmu""","rgb(154, 149, 15)",7668,677,105
@@ -483,8 +483,8 @@ industrial,https://p.scdn.co/mp3-preview/427563d67617ed14441021b41b16e935751aa5f
 uk alternative pop,https://p.scdn.co/mp3-preview/5c70671d300023689f92f565aa23cfa82c6daf39,"James Blake ""Mile High (feat. Travis Scott & Metro Boomin)""","rgb(150, 141, 28)",7643,650,105
 coverchill,https://p.scdn.co/mp3-preview/ed75524087f903db440209f12a6a78a1dd817a38,"Dalbani ""Sunday Morning - Bossa Nova Mix""","rgb(87, 166, 142)",13957,893,105
 hare krishna,https://p.scdn.co/mp3-preview/1351ec9de10c52332bea7d88061703c6e1a09422,"Bada Haridas ""Om Purnam (feat. Karnamrita)""","rgb(137, 136, 10)",14798,700,105
-complextro,https://p.scdn.co/mp3-preview/b14c1d052aa861e3087f80b276c6db68e2b5e4ef,"Farleon ""Living Your Life - Original Mix""","rgb(197, 128, 86)",2731,783,105
 kollywood,https://p.scdn.co/mp3-preview/899cb72ab8e2b4e1515f78cc0a40709b741003c6,"Premgi Amaren ""Athu Oru Kaalam""","rgb(166, 128, 18)",7224,969,105
+complextro,https://p.scdn.co/mp3-preview/b14c1d052aa861e3087f80b276c6db68e2b5e4ef,"Farleon ""Living Your Life - Original Mix""","rgb(197, 128, 86)",2731,783,105
 uk metalcore,https://p.scdn.co/mp3-preview/d07d041e6882504c93433806e2adb9e50a919e1c,"While She Sleeps ""Silence Speaks""","rgb(221, 89, 28)",5965,214,105
 baroque,https://p.scdn.co/mp3-preview/1fdcd5a816088700d4180db1f57c68cdcbdb2a3b,"Giovanni Legrenzi ""Lumi, potete piangere""","rgb(43, 164, 121)",20573,394,105
 el paso indie,https://p.scdn.co/mp3-preview/42dd00723c56b34764a80cf3db3c4a5499155e35,"Sparta ""Cut Your Ribbon""","rgb(182, 119, 70)",9157,360,105
@@ -813,8 +813,8 @@ gothic symphonic metal,https://p.scdn.co/mp3-preview/5f11c5a8f84a1ec2204500cece8
 banda jalisciense,https://p.scdn.co/mp3-preview/7ddd66548355090da2499ba42ea0155883ac073f,"Banda La Peña ""Jardín Olvidado""","rgb(152, 134, 11)",13237,1017,103
 minnesota hip hop,https://p.scdn.co/mp3-preview/c6412638eb7beea9bae2e829ac8b0b41a1ab149c,"Mike Mictlan ""Prizefight""","rgb(173, 132, 15)",5756,1021,103
 latin talent show,https://p.scdn.co/mp3-preview/2b931017efc5853adca78fa580899d723ab76db3,"Dave Zulueta ""Alfonsina Y El Mar - Operación Triunfo 2018""","rgb(147, 148, 2)",9231,760,103
-frauenrap,https://p.scdn.co/mp3-preview/20a4f7922b2f0484a3ee3f62e25c4f8e53f33d68,"badmómzjay ""Airplanes""","rgb(149, 150, 12)",7104,1148,103
 early modern classical,https://p.scdn.co/mp3-preview/657f11208b7634b7e309a9e2f59e4af51633e838,"Arnold Bax ""Folk Tale""","rgb(32, 157, 153)",21889,370,103
+frauenrap,https://p.scdn.co/mp3-preview/20a4f7922b2f0484a3ee3f62e25c4f8e53f33d68,"badmómzjay ""Airplanes""","rgb(149, 150, 12)",7104,1148,103
 asmr,https://p.scdn.co/mp3-preview/7192d131a1692eda01c9f78edc936173e050a8c2,"Alexa ASMR ""Intense Crinkle Sounds for Sleep""","rgb(121, 0, 154)",15546,443,103
 acoustic cover,https://p.scdn.co/mp3-preview/28d422bee084597ba1ace9a871f1d4d5b7d10a35,"Plamina ""Someone You Loved - Acoustic""","rgb(77, 168, 2)",15939,830,103
 afrofuturismo brasileiro,https://p.scdn.co/mp3-preview/1b4dd306b32497135be529bb462fddec1aad3937,"Anelis Assumpção ""Not Falling""","rgb(178, 133, 37)",6450,1034,103
