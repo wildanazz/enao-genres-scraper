@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -2093,8 +2093,8 @@ finnish alternative rock,https://p.scdn.co/mp3-preview/e5726cacc55be7817ebe55666
 ukrainian hip hop,https://p.scdn.co/mp3-preview/470395d72bc637abcbed36e14cc96a52b07cb548,"Ціна Ритму ""ЗСУ""","rgb(166, 136, 9)",8853,1058,101
 latintronica,https://p.scdn.co/mp3-preview/a8b742f455e623ecf82300941eee420950a0df15,"CERO39 ""Hipnótico""","rgb(154, 145, 104)",4413,1038,101
 german hyperpop,https://p.scdn.co/mp3-preview/240db6c7c1de871ef9345d9b409ddfd50e85a50d,"Hello Hannes ""MONSTER HIGH""","rgb(148, 154, 11)",5224,799,101
-italian techno,https://p.scdn.co/mp3-preview/455155efe67b7001ef4913f4beddfd35e771f784,"Roberto Capuano ""Vertigo""","rgb(193, 139, 212)",463,1261,101
 r&b italiano,https://p.scdn.co/mp3-preview/b3405cce6d5f7adc52e271eed33b6d836cb2bd84,"IRBIS 37 ""Bacio""","rgb(156, 142, 12)",8564,828,101
+italian techno,https://p.scdn.co/mp3-preview/455155efe67b7001ef4913f4beddfd35e771f784,"Roberto Capuano ""Vertigo""","rgb(193, 139, 212)",463,1261,101
 bosnian pop,https://p.scdn.co/mp3-preview/d96d05f9440b2db349e8bb1cd9ded425bf6bfc16,"Semir Jahić ""Robinja - Live""","rgb(185, 123, 2)",8897,624,101
 lithuanian edm,https://p.scdn.co/mp3-preview/a4909cb288924927ea7bb8a8aedf70254c645801,"Dan Port ""Falling""","rgb(186, 143, 78)",2206,1075,101
 belarusian indie,https://p.scdn.co/mp3-preview/619856309e27e711ea40aca248d2b0434f5d9de2,"Бяз Назвы ""Дажджамi""","rgb(176, 125, 34)",6518,588,101
@@ -3277,8 +3277,8 @@ tamil devotional,https://p.scdn.co/mp3-preview/6f988c933bb3f47128e14fbd3719c315e
 korean trap,https://p.scdn.co/mp3-preview/11298b45249a9733494ad2d73d11f1a22dc0fb77,"ZENE THE ZILLA ""Nowadays (Feat. ASH ISLAND)""","rgb(178, 143, 11)",6096,1025,100
 japanese garage rock,https://p.scdn.co/mp3-preview/24aebe1b3acab2348f11e6955c3f1a0ca1aeec49,"Thee Michelle Gun Elephant ""世界の終わり - Primitive Version""","rgb(214, 85, 49)",10085,304,100
 belarusian electronic,https://p.scdn.co/mp3-preview/fb8d8f7e633b275bd5b4b73ff66db0aee551945c,"Otnicka ""Peaky Blinder""","rgb(190, 141, 179)",1146,1099,100
-british dance band,https://p.scdn.co/mp3-preview/2b29852938826ff5966b00b454502e92e72f6edc,"Henry Hall & The BBC Dance Orchestra ""I'm Putting All My Eggs In One Basket""","rgb(67, 143, 83)",20602,817,100
 musica quintanarroense,https://p.scdn.co/mp3-preview/6bcbb33064ce95d017d5bb9503d721d7c6608f3e,"Korto Circuito ""Cerca de Ti""","rgb(193, 129, 57)",4236,967,100
+british dance band,https://p.scdn.co/mp3-preview/2b29852938826ff5966b00b454502e92e72f6edc,"Henry Hall & The BBC Dance Orchestra ""I'm Putting All My Eggs In One Basket""","rgb(67, 143, 83)",20602,817,100
 jesus movement,https://p.scdn.co/mp3-preview/57fcdb4dd7529e93d0756222399a65ed6389d981,"Gentle Faith ""Jerusalem""","rgb(120, 139, 26)",13331,593,100
 deep norteno,https://p.scdn.co/mp3-preview/758011779dcf6d638985ea2b7f90f71dcd0274b0,"Los Palmeros de San Carlos Chih. ""El Dia de Tu Boda""","rgb(179, 139, 7)",10697,973,100
 alabama metal,https://p.scdn.co/mp3-preview/ca6a2b97db78241c557d5dc857b13c232d6d0944,"Gideon ""No Love/No One""","rgb(217, 83, 73)",7547,227,100
