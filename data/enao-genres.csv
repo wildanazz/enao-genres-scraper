@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -807,8 +807,8 @@ indie game soundtrack,https://p.scdn.co/mp3-preview/7701d44676c6db61592724db261d
 spanish new wave,https://p.scdn.co/mp3-preview/711afb883860695137a7de0df19aad3bb67b9a69,"Pistones ""El Pistolero""","rgb(191, 117, 20)",6195,618,103
 stomp and flutter,https://p.scdn.co/mp3-preview/65c319099ba47524f1f0fb7cd39d2e0e9f5a17b7,"Beta Radio ""Our Remains""","rgb(89, 158, 38)",14835,549,103
 bossbeat,https://p.scdn.co/mp3-preview/9ddfa494c6e3a24a0ac2d82909432d13a13d2365,"Skinny Beats ""This Feeling""","rgb(166, 137, 88)",4367,781,103
-alternative country,https://p.scdn.co/mp3-preview/262e8c745ee4b8296c04c197e56b43c7c1761847,"The Bottle Rockets ""Indianapolis""","rgb(129, 141, 26)",13454,542,103
 minimal techno,https://p.scdn.co/mp3-preview/a2b5c546aa604c205ddbada01421a9f938e542c8,"Ricardo Villalobos ""Recat""","rgb(174, 145, 199)",964,1261,103
+alternative country,https://p.scdn.co/mp3-preview/262e8c745ee4b8296c04c197e56b43c7c1761847,"The Bottle Rockets ""Indianapolis""","rgb(129, 141, 26)",13454,542,103
 gothic symphonic metal,https://p.scdn.co/mp3-preview/5f11c5a8f84a1ec2204500cece832cfc313b81c5,"Amberian Dawn ""Lay All Your Love On Me""","rgb(198, 112, 35)",5915,210,103
 banda jalisciense,https://p.scdn.co/mp3-preview/7ddd66548355090da2499ba42ea0155883ac073f,"Banda La Peña ""Jardín Olvidado""","rgb(152, 134, 11)",13237,1017,103
 minnesota hip hop,https://p.scdn.co/mp3-preview/c6412638eb7beea9bae2e829ac8b0b41a1ab149c,"Mike Mictlan ""Prizefight""","rgb(173, 132, 15)",5756,1021,103
