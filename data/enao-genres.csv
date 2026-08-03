@@ -1,7 +1,7 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
@@ -460,8 +460,8 @@ dreamo,https://p.scdn.co/mp3-preview/14ccb6a38efd019f807b96f19d86b90277e4b072,"G
 turbo folk,https://p.scdn.co/mp3-preview/86949af4e9d5b2b9118a487eb576b3bbcd66db90,"Mia Borisavljevic ""Lepota Balkanska""","rgb(187, 125, 2)",6531,751,105
 pinoy hip hop,https://p.scdn.co/mp3-preview/bacfe144949c072702ce29bb5a34a7487bb58e19,"Loonie ""ARÁL""","rgb(149, 144, 9)",6678,1081,105
 czsk hip hop,https://p.scdn.co/mp3-preview/cb62c15b2201270ca031b05f284d54f15216a2bc,"Karlo ""Ticho""","rgb(168, 140, 10)",7140,1028,105
-chicago drill,https://p.scdn.co/mp3-preview/755df753eec675bf7d8b6783fcb4118304b599d8,"P.Rico ""Cooking Up""","rgb(159, 146, 2)",6425,1005,105
 rap napoletano,https://p.scdn.co/mp3-preview/98af7b9b0eacb46aabf67fbd2daaca3e9a168b59,"Ntò ""Pe t'avè""","rgb(168, 134, 19)",8322,925,105
+chicago drill,https://p.scdn.co/mp3-preview/755df753eec675bf7d8b6783fcb4118304b599d8,"P.Rico ""Cooking Up""","rgb(159, 146, 2)",6425,1005,105
 japanese singer-songwriter,https://p.scdn.co/mp3-preview/a44f6dddbe32486181c5eed398c68b9fc201904e,"Yo Hitoto ""ハナミズキ""","rgb(144, 141, 18)",10109,591,105
 oxford indie,https://p.scdn.co/mp3-preview/38827a35cd181ecc43dcaf2696de1f947a472c87,"Foals ""My Number""","rgb(165, 130, 59)",8124,437,105
 new rave,https://p.scdn.co/mp3-preview/632037798d8c706947c37b51757671d363ceb7c7,"Klaxons ""Golden Skans""","rgb(188, 125, 68)",2688,815,105
