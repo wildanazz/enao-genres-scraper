@@ -1,8 +1,8 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
@@ -240,9 +240,9 @@ indie poptimism,https://p.scdn.co/mp3-preview/486e4d5f749ef21c21981f4076f2c134a0
 dream pop,https://p.scdn.co/mp3-preview/1bdf9462299ead9b3ac560a82ed871195550e115,"Pale Saints ""Kinky Love""","rgb(150, 128, 103)",10178,337,108
 rap conscient,https://p.scdn.co/mp3-preview/a4d3630f17d3decd9889c6518292cc4fc090a521,"Médine ""Grand Paris""","rgb(172, 137, 7)",10771,1051,108
 neo-synthpop,https://p.scdn.co/mp3-preview/551fa43f4dc5cf78435eb1ed2de49faa2bb1398e,"Rupesh Cartel ""Embers""","rgb(182, 132, 71)",2718,734,108
-funk rock,https://p.scdn.co/mp3-preview/32eb8ce9e7c32c8a90cc356ef418f4ccc4206d12,"Primus ""Jerry Was A Race Car Driver""","rgb(185, 105, 37)",7236,774,108
 easy listening,https://p.scdn.co/mp3-preview/f82e4e42d99db8c1808469d66b287c3f81dcc63f,"Percy Faith ""The Song from Moulin Rouge (Alternate Take)""","rgb(81, 145, 57)",18744,519,108
 bolero,https://p.scdn.co/mp3-preview/ed020841439111d9783d0cb075a687383e280838,"Los Tres Diamantes ""La Gloria Eres Tu""","rgb(105, 146, 13)",17316,860,108
+funk rock,https://p.scdn.co/mp3-preview/32eb8ce9e7c32c8a90cc356ef418f4ccc4206d12,"Primus ""Jerry Was A Race Car Driver""","rgb(185, 105, 37)",7236,774,108
 g funk,https://p.scdn.co/mp3-preview/e6fc6783f34de9fcba43f4549ea8889d0eae34c7,"Jayo Felony ""Sherm Stick""","rgb(171, 124, 5)",4923,1187,108
 barbadian pop,https://p.scdn.co/mp3-preview/4867c966b9507afb13c4653a0f7ee4a08999f774,"Edwin Yearwood ""Pump Me Up""","rgb(186, 134, 12)",3214,967,108
 progressive rock,https://p.scdn.co/mp3-preview/057d5caf3148d48d357f5cce33f1e01cf1de2a0a,"Steve Hackett ""Spectral Mornings - Remastered 2005""","rgb(148, 126, 58)",12672,412,108
@@ -1505,8 +1505,8 @@ melodic metal,https://p.scdn.co/mp3-preview/f648aa7336ad4684af910a5d59baed2c4bab
 classic french pop,https://p.scdn.co/mp3-preview/8ab9025b2120658847166562dd7442f60a3df626,"Thierry Pastor ""Le coup de folie""","rgb(150, 133, 8)",10979,741,102
 russian electronic,https://p.scdn.co/mp3-preview/b7fc7032677a6676ac9a1b973bc2fd2a13269521,"Mujuice ""Юность""","rgb(162, 143, 160)",3669,925,102
 new jersey hardcore,https://p.scdn.co/mp3-preview/e6c230f8c0fd63bae02b456958fac037a2b4376e,"Floorpunch ""Intro / Changes""","rgb(216, 85, 35)",10868,304,102
-rune folk,https://p.scdn.co/mp3-preview/bcd5f73d15edd613ab07518b159b5bd5e24164f8,"Hagalaz' Runedance ""The Dawning""","rgb(120, 143, 102)",11392,315,102
 french techno,https://p.scdn.co/mp3-preview/821bf68438e88c7e261749544708a41db8e60171,"AIROD ""Golden Pills""","rgb(189, 137, 200)",760,1203,102
+rune folk,https://p.scdn.co/mp3-preview/bcd5f73d15edd613ab07518b159b5bd5e24164f8,"Hagalaz' Runedance ""The Dawning""","rgb(120, 143, 102)",11392,315,102
 technical death metal,https://p.scdn.co/mp3-preview/dfdaa465487d0747e806e26d6b3879622890a56e,"Spawn of Possession ""Apparition""","rgb(233, 60, 137)",10403,154,102
 magyar trap,https://p.scdn.co/mp3-preview/9bc60f98be568d1c4a1d36480c6d6be395b30865,"Nasiimov ""Lefele""","rgb(147, 152, 9)",6400,1043,102
 indonesian viral pop,https://p.scdn.co/mp3-preview/0b5d97f8f496230e3f9885c5c0b95ee2426b51e1,"DJ Haning ""Pikir Keri X Kroncong Protol""","rgb(201, 144, 70)",1753,1226,102
