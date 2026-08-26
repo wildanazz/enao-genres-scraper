@@ -1,51 +1,51 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-k-pop,https://p.scdn.co/mp3-preview/33e5ec94a2f425d6b83a045a760be6bc90bba335,"EXID ""Up & Down""","rgb(186, 132, 20)",5326,777,123
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-pop dance,https://p.scdn.co/mp3-preview/1164c378d1a70ec8cfa42a28dc108503e8f62768,"Alesso ""Words (feat. Zara Larsson)""","rgb(202, 129, 54)",2608,779,121
-hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
-modern rock,https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1,"Cage The Elephant ""Cigarette Daydreams""","rgb(189, 120, 18)",5689,471,127
-modern bollywood,https://p.scdn.co/mp3-preview/330e51578b83cabf38fdffb11d7308bc86bad29a,"Amaal Mallik ""Soch Na Sake""","rgb(166, 131, 8)",8901,783,119
-alternative metal,https://p.scdn.co/mp3-preview/5efe16cd96fbb2c320332c1ba8f120909db22d21,"Drowning Pool ""Bodies""","rgb(214, 92, 35)",6864,306,124
-art pop,https://p.scdn.co/mp3-preview/559376c76e6833bf834b2cd49190be0c1531a456,"Julia Holter ""Sun Girl""","rgb(140, 139, 59)",9611,599,117
-soft rock,https://p.scdn.co/mp3-preview/0408c4e5f1d51b6b605429205342fde6930d96ea,"Kenny Loggins ""Footloose""","rgb(151, 128, 15)",10613,630,121
-pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
-melodic rap,https://p.scdn.co/mp3-preview/5375749526c97f47a4dd645ca575a107c3423c13,"Rich The Kid ""Plug Walk""","rgb(151, 156, 2)",4726,1060,119
-trap,https://p.scdn.co/mp3-preview/1e15f2d4ac12c4f851604da51d13eccc5db47cef,"Rich Homie Quan ""Flex (Ooh, Ooh, Ooh)""","rgb(163, 143, 2)",5478,1064,124
-country,https://p.scdn.co/mp3-preview/327c020067dc3208aed124191674a27741179c52,"John Michael Montgomery ""Sold (The Grundy County Auction Incident)""","rgb(123, 141, 8)",12934,729,118
-album rock,https://p.scdn.co/mp3-preview/4e8704349932ecb754e3c03cdf3b1563309627a0,"Boston ""More Than a Feeling""","rgb(174, 113, 25)",10880,490,121
-dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
-uk pop,https://p.scdn.co/mp3-preview/28f56f19466d4fd09f4e791e0f40bd694c5c6cf9,"Griff ""Vertigo""","rgb(152, 145, 4)",8311,760,119
-permanent wave,https://p.scdn.co/mp3-preview/03da0b85c9fa2fb5e621e97d4fb145a17aaf7ef1,"Pixies ""Where Is My Mind? - Remastered""","rgb(171, 121, 31)",8984,488,124
-nu metal,https://p.scdn.co/mp3-preview/902dacc92715211e588270b1f4e62fd3681e218e,"Mudvayne ""Happy?""","rgb(215, 94, 32)",5839,335,118
-sierreno,https://p.scdn.co/mp3-preview/3c714f7761f69f05e01a9ef084e6f31d2f4a643d,"Hijos De Barron ""Y Si Se Quiere Ir""","rgb(159, 141, 1)",13402,1032,121
-reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
-mellow gold,https://p.scdn.co/mp3-preview/64de489763e2f6f83f1ea86152f322656fc494b6,"Carly Simon ""You're So Vain""","rgb(142, 130, 14)",12672,621,119
-rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
-filmi,https://p.scdn.co/mp3-preview/2fae1d6e0e7a0c6ffdeb22472b8df6ddc9cef296,"Kavita Krishnamurthy ""Koi Mil Gaya""","rgb(139, 135, 25)",15070,772,124
-atl hip hop,https://p.scdn.co/mp3-preview/be360a507094a10639c1da4d1e8da31514d744dc,"Lil Jon & The East Side Boyz ""Get Low""","rgb(162, 142, 4)",4354,1062,117
-sertanejo universitario,https://p.scdn.co/mp3-preview/f9a68036db8f21cf87fe8f129c4cc1d53ca91eb5,"João Bosco & Vinicius ""Fim da Noite - Ao Vivo""","rgb(190, 132, 1)",8841,832,118
-norteno,https://p.scdn.co/mp3-preview/5de4dbcb2385cecb5cb6f73d8f85438f956ff897,"Los Huracanes del Norte ""El Gato De Chihuahua""","rgb(152, 142, 3)",12859,1021,122
 urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
-trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
-contemporary country,https://p.scdn.co/mp3-preview/3587df4ee9fd89943486a6b3ee7d0bb7c19bfb35,"Lee Brice ""One Of Them Girls""","rgb(165, 136, 1)",6852,554,120
-classic rock,https://p.scdn.co/mp3-preview/6c1f5377ae30c65577835dce021c23bcf198591f,"Steppenwolf ""Born To Be Wild""","rgb(154, 121, 23)",13282,646,125
-corridos tumbados,https://p.scdn.co/mp3-preview/737e02df2101ae364cdc908c68f50bc56ebdd633,"Esteban Gabriel ""Piel de Seda""","rgb(162, 143, 1)",13363,1009,118
-canadian pop,https://p.scdn.co/mp3-preview/be044054206fc8cfabbcf3689f5cbbba32aabf76,"Shawn Desman ""Electric""","rgb(152, 138, 5)",9390,646,122
-southern hip hop,https://p.scdn.co/mp3-preview/2eb13d7dbfa77401e19d5950eac8cd3c02b76ffe,"JUVENILE ""Back That Azz Up""","rgb(168, 138, 2)",5426,1055,116
-hard rock,https://p.scdn.co/mp3-preview/ad97ce828e504498e211b6525c5ccee86642786b,"Blue Öyster Cult ""(Don't Fear) The Reaper""","rgb(194, 98, 32)",10110,368,120
-latin pop,https://p.scdn.co/mp3-preview/3829c17a7890155b43266bc3097cdddd8099a511,"La Quinta Estacion ""El Sol No Regresa""","rgb(174, 138, 3)",6316,826,126
-post-grunge,https://p.scdn.co/mp3-preview/6056f92c7dcd49c7abfa4fd5454772861b2e17ba,"Seether ""Fake It""","rgb(204, 108, 15)",5075,372,118
-corrido,https://p.scdn.co/mp3-preview/cdb979187e3efd6a89c8cd8d3688f5818d8adb48,"Código FN ""Mood Malandro""","rgb(162, 139, 1)",13324,1062,122
-sertanejo,https://p.scdn.co/mp3-preview/d7a71a211a5adbb009cb3d11c22c26d7b35e692c,"Rionegro & Solimões ""Chorando e Dançando""","rgb(179, 136, 0)",9856,808,117
-edm,https://p.scdn.co/mp3-preview/89dff34e3b51bd0aaa6c3910debda6476fe66e4a,"Sebastian Ingrosso ""Reload - Radio Edit""","rgb(202, 128, 61)",2647,767,121
-musica mexicana,https://p.scdn.co/mp3-preview/77d607329b195dceb8adc4fac811e2456c5ef410,"Voz De Mando ""Levantando Polvadera""","rgb(152, 143, 4)",13121,986,126
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
+rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-banda,https://p.scdn.co/mp3-preview/a9da152ba095773913e1826bfd19c78609b43496,"Banda Clave Nueva ""Cuál Adiós""","rgb(153, 142, 6)",11092,994,118
-r&b,https://p.scdn.co/mp3-preview/6527596393b3ea9d71d6e58b9f08c67fe69eac9e,"Xscape ""Who Can I Run To""","rgb(153, 139, 5)",6238,919,123
-urban contemporary,https://p.scdn.co/mp3-preview/6ff0fdd232b5d0434f1e30f1a86c47a3890c83aa,"Sisqo ""Thong Song""","rgb(158, 135, 7)",5618,937,117
-sad sierreno,https://p.scdn.co/mp3-preview/6b696210aaae9dd245c0a6c0adc6e9dd8afee523,"Nivel ""Adueñarme""","rgb(154, 145, 1)",13185,1005,121
+hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
+trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
+reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
+dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
+pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
+modern rock,https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1,"Cage The Elephant ""Cigarette Daydreams""","rgb(189, 120, 18)",5689,471,127
 pov: indie,https://p.scdn.co/mp3-preview/53c0dac3cd40e29fb0b9b6a22f03879a744f7105,"Cavetown ""Devil Town""","rgb(156, 135, 23)",7866,615,126
+musica mexicana,https://p.scdn.co/mp3-preview/77d607329b195dceb8adc4fac811e2456c5ef410,"Voz De Mando ""Levantando Polvadera""","rgb(152, 143, 4)",13121,986,126
+latin pop,https://p.scdn.co/mp3-preview/3829c17a7890155b43266bc3097cdddd8099a511,"La Quinta Estacion ""El Sol No Regresa""","rgb(174, 138, 3)",6316,826,126
+classic rock,https://p.scdn.co/mp3-preview/6c1f5377ae30c65577835dce021c23bcf198591f,"Steppenwolf ""Born To Be Wild""","rgb(154, 121, 23)",13282,646,125
+filmi,https://p.scdn.co/mp3-preview/2fae1d6e0e7a0c6ffdeb22472b8df6ddc9cef296,"Kavita Krishnamurthy ""Koi Mil Gaya""","rgb(139, 135, 25)",15070,772,124
+permanent wave,https://p.scdn.co/mp3-preview/03da0b85c9fa2fb5e621e97d4fb145a17aaf7ef1,"Pixies ""Where Is My Mind? - Remastered""","rgb(171, 121, 31)",8984,488,124
+trap,https://p.scdn.co/mp3-preview/1e15f2d4ac12c4f851604da51d13eccc5db47cef,"Rich Homie Quan ""Flex (Ooh, Ooh, Ooh)""","rgb(163, 143, 2)",5478,1064,124
+alternative metal,https://p.scdn.co/mp3-preview/5efe16cd96fbb2c320332c1ba8f120909db22d21,"Drowning Pool ""Bodies""","rgb(214, 92, 35)",6864,306,124
+k-pop,https://p.scdn.co/mp3-preview/33e5ec94a2f425d6b83a045a760be6bc90bba335,"EXID ""Up & Down""","rgb(186, 132, 20)",5326,777,123
+r&b,https://p.scdn.co/mp3-preview/6527596393b3ea9d71d6e58b9f08c67fe69eac9e,"Xscape ""Who Can I Run To""","rgb(153, 139, 5)",6238,919,123
+corrido,https://p.scdn.co/mp3-preview/cdb979187e3efd6a89c8cd8d3688f5818d8adb48,"Código FN ""Mood Malandro""","rgb(162, 139, 1)",13324,1062,122
+canadian pop,https://p.scdn.co/mp3-preview/be044054206fc8cfabbcf3689f5cbbba32aabf76,"Shawn Desman ""Electric""","rgb(152, 138, 5)",9390,646,122
+norteno,https://p.scdn.co/mp3-preview/5de4dbcb2385cecb5cb6f73d8f85438f956ff897,"Los Huracanes del Norte ""El Gato De Chihuahua""","rgb(152, 142, 3)",12859,1021,122
+sierreno,https://p.scdn.co/mp3-preview/3c714f7761f69f05e01a9ef084e6f31d2f4a643d,"Hijos De Barron ""Y Si Se Quiere Ir""","rgb(159, 141, 1)",13402,1032,121
+album rock,https://p.scdn.co/mp3-preview/4e8704349932ecb754e3c03cdf3b1563309627a0,"Boston ""More Than a Feeling""","rgb(174, 113, 25)",10880,490,121
+soft rock,https://p.scdn.co/mp3-preview/0408c4e5f1d51b6b605429205342fde6930d96ea,"Kenny Loggins ""Footloose""","rgb(151, 128, 15)",10613,630,121
+pop dance,https://p.scdn.co/mp3-preview/1164c378d1a70ec8cfa42a28dc108503e8f62768,"Alesso ""Words (feat. Zara Larsson)""","rgb(202, 129, 54)",2608,779,121
+sad sierreno,https://p.scdn.co/mp3-preview/6b696210aaae9dd245c0a6c0adc6e9dd8afee523,"Nivel ""Adueñarme""","rgb(154, 145, 1)",13185,1005,121
+edm,https://p.scdn.co/mp3-preview/89dff34e3b51bd0aaa6c3910debda6476fe66e4a,"Sebastian Ingrosso ""Reload - Radio Edit""","rgb(202, 128, 61)",2647,767,121
+hard rock,https://p.scdn.co/mp3-preview/ad97ce828e504498e211b6525c5ccee86642786b,"Blue Öyster Cult ""(Don't Fear) The Reaper""","rgb(194, 98, 32)",10110,368,120
+contemporary country,https://p.scdn.co/mp3-preview/3587df4ee9fd89943486a6b3ee7d0bb7c19bfb35,"Lee Brice ""One Of Them Girls""","rgb(165, 136, 1)",6852,554,120
+mellow gold,https://p.scdn.co/mp3-preview/64de489763e2f6f83f1ea86152f322656fc494b6,"Carly Simon ""You're So Vain""","rgb(142, 130, 14)",12672,621,119
+uk pop,https://p.scdn.co/mp3-preview/28f56f19466d4fd09f4e791e0f40bd694c5c6cf9,"Griff ""Vertigo""","rgb(152, 145, 4)",8311,760,119
+melodic rap,https://p.scdn.co/mp3-preview/5375749526c97f47a4dd645ca575a107c3423c13,"Rich The Kid ""Plug Walk""","rgb(151, 156, 2)",4726,1060,119
+modern bollywood,https://p.scdn.co/mp3-preview/330e51578b83cabf38fdffb11d7308bc86bad29a,"Amaal Mallik ""Soch Na Sake""","rgb(166, 131, 8)",8901,783,119
 alternative rock,https://p.scdn.co/mp3-preview/eca519f0a85862d9510d57d59df557081d375e3a,"The White Stripes ""Seven Nation Army""","rgb(184, 109, 51)",9647,416,118
+banda,https://p.scdn.co/mp3-preview/a9da152ba095773913e1826bfd19c78609b43496,"Banda Clave Nueva ""Cuál Adiós""","rgb(153, 142, 6)",11092,994,118
+post-grunge,https://p.scdn.co/mp3-preview/6056f92c7dcd49c7abfa4fd5454772861b2e17ba,"Seether ""Fake It""","rgb(204, 108, 15)",5075,372,118
+corridos tumbados,https://p.scdn.co/mp3-preview/737e02df2101ae364cdc908c68f50bc56ebdd633,"Esteban Gabriel ""Piel de Seda""","rgb(162, 143, 1)",13363,1009,118
+sertanejo universitario,https://p.scdn.co/mp3-preview/f9a68036db8f21cf87fe8f129c4cc1d53ca91eb5,"João Bosco & Vinicius ""Fim da Noite - Ao Vivo""","rgb(190, 132, 1)",8841,832,118
+nu metal,https://p.scdn.co/mp3-preview/902dacc92715211e588270b1f4e62fd3681e218e,"Mudvayne ""Happy?""","rgb(215, 94, 32)",5839,335,118
+country,https://p.scdn.co/mp3-preview/327c020067dc3208aed124191674a27741179c52,"John Michael Montgomery ""Sold (The Grundy County Auction Incident)""","rgb(123, 141, 8)",12934,729,118
+art pop,https://p.scdn.co/mp3-preview/559376c76e6833bf834b2cd49190be0c1531a456,"Julia Holter ""Sun Girl""","rgb(140, 139, 59)",9611,599,117
+atl hip hop,https://p.scdn.co/mp3-preview/be360a507094a10639c1da4d1e8da31514d744dc,"Lil Jon & The East Side Boyz ""Get Low""","rgb(162, 142, 4)",4354,1062,117
+urban contemporary,https://p.scdn.co/mp3-preview/6ff0fdd232b5d0434f1e30f1a86c47a3890c83aa,"Sisqo ""Thong Song""","rgb(158, 135, 7)",5618,937,117
+sertanejo,https://p.scdn.co/mp3-preview/d7a71a211a5adbb009cb3d11c22c26d7b35e692c,"Rionegro & Solimões ""Chorando e Dançando""","rgb(179, 136, 0)",9856,808,117
+southern hip hop,https://p.scdn.co/mp3-preview/2eb13d7dbfa77401e19d5950eac8cd3c02b76ffe,"JUVENILE ""Back That Azz Up""","rgb(168, 138, 2)",5426,1055,116
 singer-songwriter,https://p.scdn.co/mp3-preview/6a17ed2e1ee8d45a933c4a86dd268ba8f12299a4,"Paul Simon ""You Can Call Me Al""","rgb(123, 136, 19)",14451,670,116
 reggaeton colombiano,https://p.scdn.co/mp3-preview/c68c8081615f6d3ddca71be0871ae32c29cb074b,"Andy Rivera ""Alguien Me Gusta""","rgb(185, 146, 1)",3653,1159,116
 arrocha,https://p.scdn.co/mp3-preview/125d70024c88bb1bf45666f6396dc21a181c416e,"Israel & Rodolffo ""Seu Brilho Sumiu - Ao Vivo""","rgb(187, 141, 0)",8462,961,116
