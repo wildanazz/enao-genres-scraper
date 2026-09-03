@@ -1,7 +1,7 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
-rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
 pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
 hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
@@ -5243,8 +5243,8 @@ djecje pjesme,https://p.scdn.co/mp3-preview/dab03e953b337804311a53a0ca3819c94998
 folk metal latinoamericano,https://p.scdn.co/mp3-preview/c44004e8752188db56b664035f317e669cc67bad,"Cemican ""Itlach In Mictlantecuhtli""","rgb(206, 103, 52)",8776,242,100
 baps,https://p.scdn.co/mp3-preview/39f6d3b9b17a4b18a9fec1666709b960a7bb5007,"Jaydeep Swadia ""Bhumi Mangalam""","rgb(103, 146, 5)",16407,858,100
 steelpan,https://p.scdn.co/mp3-preview/197b5168a586d3e3803ad0281d15ae0cd6875d40,"The Carnival Steel Drum Band ""One Love""","rgb(137, 144, 166)",9694,994,100
-sda choir,https://p.scdn.co/mp3-preview/e49a547427f8b8bec0f025d9c6347ba432d5d863,"Redemption Ministers ""Chukua Udongo Tena""","rgb(129, 141, 1)",12464,847,100
 rio grande do sul indie,https://p.scdn.co/mp3-preview/27411185e218ebe808facd66922e96397bf9f05d,"Apanhador Só ""Linda, Louca e Livre""","rgb(128, 142, 28)",11516,686,100
+sda choir,https://p.scdn.co/mp3-preview/e49a547427f8b8bec0f025d9c6347ba432d5d863,"Redemption Ministers ""Chukua Udongo Tena""","rgb(129, 141, 1)",12464,847,100
 illbient,https://p.scdn.co/mp3-preview/16d76f5cd27fcd87aea8b87254e719c0578c044b,"DJ Spooky ""Galactic Funk""","rgb(150, 128, 151)",7103,751,100
 ryukoka,https://p.scdn.co/mp3-preview/d7389c50067128e11de06534e29e64b0dda377e9,"Fujiyama Ichiro ""青い山脈""","rgb(72, 160, 14)",20105,573,100
 occult black metal,https://p.scdn.co/mp3-preview/84048531765c373e635049622a42a076f031f8ed,"Darvaza ""Mother Of Harlots""","rgb(209, 52, 146)",10953,29,100
