@@ -1,12 +1,12 @@
 genre_name,preview_url,preview_track,color,top_pixel,left_pixel,font_size
 rock,https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e,"Black Sabbath ""Paranoid - 2012 - Remaster""","rgb(172, 113, 25)",11552,563,141
-hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
-pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
-urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
 rap,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7,"Gucci Mane ""Wake Up in the Sky""","rgb(167, 138, 3)",5866,1068,144
+urbano latino,https://p.scdn.co/mp3-preview/486bdd86843f0ac2f401859e84ba9b5472d115cb,"Darell ""Lollipop""","rgb(189, 144, 2)",3456,1170,136
+pop,https://p.scdn.co/mp3-preview/17fa164b977074dd1b1869bfb10b08cfd513e53b,"Demi Lovato ""Heart Attack""","rgb(173, 137, 7)",4997,783,160
+hip hop,https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200,"Nas ""N.Y. State of Mind""","rgb(172, 127, 8)",6854,1086,135
 trap latino,https://p.scdn.co/mp3-preview/51d496e8d53059179863411b06ed2431ca2be92a,"Alex Rose ""Toda - Remix""","rgb(188, 145, 1)",3723,1182,134
-dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
 reggaeton,https://p.scdn.co/mp3-preview/3c1278cf0eb6aba0f72552a3aa469dfed37d8e75,"Zion ""More""","rgb(192, 143, 2)",3087,1173,131
+dance pop,https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4,"Britney Spears ""Toxic""","rgb(183, 132, 11)",3478,862,131
 pop rap,https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531,"Soulja Boy ""Kiss Me Thru The Phone""","rgb(172, 136, 3)",5285,1043,128
 modern rock,https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1,"Cage The Elephant ""Cigarette Daydreams""","rgb(189, 120, 18)",5689,471,127
 pov: indie,https://p.scdn.co/mp3-preview/53c0dac3cd40e29fb0b9b6a22f03879a744f7105,"Cavetown ""Devil Town""","rgb(156, 135, 23)",7866,615,126
@@ -6049,8 +6049,8 @@ korean hardcore,https://p.scdn.co/mp3-preview/56ec0c694901ffc5353371e3b6e8114198
 experimental dubstep,https://p.scdn.co/mp3-preview/77285a3b161a433ba1f0d45d1aaf628921cc9655,"Brothers Grinn ""Tik Tok - Bonkabass Mix""","rgb(196, 128, 145)",1294,1071,100
 baltic choir,https://p.scdn.co/mp3-preview/13ec6c1c49bda8c551e2f2557d96f27d0bc3f600,"Youth Choir ""Kamer..."" ""O Salutaris Hostia""","rgb(41, 158, 54)",21852,111,100
 musica roraimense,https://p.scdn.co/mp3-preview/3b0b9305bd60a2342421b2a1bc2b259c46ac519e,"Neuber Uchôa ""Cruviana""","rgb(145, 143, 49)",8161,770,100
-metal uruguayo,https://p.scdn.co/mp3-preview/2bbd676065c486ddbcd1b1fd2e021cf3a420aae5,"Reytoro ""Sol""","rgb(212, 96, 49)",6665,249,100
 baoule,https://p.scdn.co/mp3-preview/656f211eb9cee9d592bbcbd7abf79bc13fb6ce52,"Mossia ""Mowa""","rgb(188, 121, 16)",7447,1115,100
+metal uruguayo,https://p.scdn.co/mp3-preview/2bbd676065c486ddbcd1b1fd2e021cf3a420aae5,"Reytoro ""Sol""","rgb(212, 96, 49)",6665,249,100
 ethiopian traditional,https://p.scdn.co/mp3-preview/61130a40cff05e4ca565a5af3d0666b42e32362b,"Asnaqètch Wèrqu ""Mengedegnaw lebe""","rgb(74, 149, 48)",19475,864,100
 post-rock latinoamericano,https://p.scdn.co/mp3-preview/7e027339f00a8b66663718f5275169c4b5c3f7a2,"Helices ""Crucemos los Puentes...""","rgb(150, 140, 177)",10711,287,100
 fife and drum,https://p.scdn.co/mp3-preview/7e9a8b0d75c4d153a272d5ecf12d8f9e37192bda,"Plymouth Fife & Drum Corps ""British (Medley)""","rgb(122, 94, 192)",13660,1071,100
